@@ -6,6 +6,9 @@
   import jsonData from 'public/cards.json';
   const data = useState(() => jsonData);
   
+  var searchValue = useState(() => '');
+
+  
 </script>
 
 <template>
@@ -22,15 +25,20 @@
       <br/>
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make Playing Cards</a>.</p>
       
-      <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using Anydeck</h3>
+      <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
       
       <p>The following are some of the games playable using AnyDeck.</p>
+
+      <UInput v-model="searchValue" icon="i-lucide-search" size="md" variant="outline" placeholder="Enter name" />
       
       <UCard v-for="(game) in data" class="mt-5">
-        {{ game.name }} ({{game.year}})
         
-        <table class="table-auto border-separate border-spacing-2 border border-gray-200 dark:border-gray-500">
+        
+        <table class="table-auto border-separate border-spacing-2">
           <tbody>
+            <tr>
+              <td>Name</td><td>{{ game.name }} ({{game.year}})</td>
+            </tr>
             <tr>
               <td>BGG</td><td><a target="_blank" :href="game.bgg">Link</a></td>
             </tr>            
@@ -41,7 +49,24 @@
               <td>Deck</td><td>{{ game.deck }}</td>
             </tr>
             <tr>
-              <td>Components</td><td></td>    
+              <td>Components</td>
+              <td>
+                <ul class="flex-col">
+                  <li v-for="(item) in game.components">
+                    {{ item }}
+                  </li>
+                </ul>
+              </td>    
+            </tr>
+            <tr>
+              <td>Extra Components</td>
+              <td>
+                <ul class="flex-col">
+                  <li v-for="(item) in game.extraComponents">
+                    {{ item }}
+                  </li>
+                </ul>
+              </td>
             </tr>
           
           
