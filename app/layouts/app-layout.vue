@@ -13,6 +13,7 @@
         <ul class="flex space-x-10 text-xl">
           <li><NuxtLink to="/games">Games</NuxtLink></li>
           <li><NuxtLink to="/anydeck">AnyDeck</NuxtLink></li>
+          <li><NuxtLink to="/mixing">Mixing</NuxtLink></li>
           <li><NuxtLink to="/contact">Contact</NuxtLink></li>
         </ul>
       </nav>
