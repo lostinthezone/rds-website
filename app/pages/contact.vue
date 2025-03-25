@@ -1,8 +1,8 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="p-8">
-    Email <a href="mailto:reallydigitalstuff@gmail.com">admin</a>. 
+  <div class="pt-8">
+    reallydigitalstuff at gmail.com 
   </div>
 </template>
 

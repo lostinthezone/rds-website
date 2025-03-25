@@ -3,7 +3,7 @@
 
 <template>
   <div class="border-b-1 border-gray-200">
-    <header class="container mx-auto flex justify-between items-center p-2">
+    <header class="container mx-auto flex justify-between items-center pt-3 pb-3">
       <div>
         <NuxtLink to="/">
           <img src="/rds-long-logo.png" alt="RDS logo" class="max-w-xs"/>
@@ -23,6 +23,14 @@
   <div class="container mx-auto">
     <slot/>
   </div>
+
+  <div class="border-t-1 border-gray-200 mt-10">
+    <div class="container mx-auto pt-8 pb-8">
+      Copyright @ 2025  
+    </div>
+    
+  </div>
+  
 </template>
 
 <style scoped></style>

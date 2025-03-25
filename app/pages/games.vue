@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="p-8">
+  <div class="pt-8">
     No games yet.
   </div>
 </template>

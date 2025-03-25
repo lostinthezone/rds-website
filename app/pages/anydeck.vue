@@ -24,7 +24,7 @@ const filteredList = computed(() => {
 </script>
 
 <template>
-  <div class="flex flex-col p-8">
+  <div class="flex flex-col pt-8">
 
     <div class="flex content-center justify-center">
       <img src="/anydeck-logo.png" alt="Anydeck logo" class="max-w-xs"/>
@@ -34,7 +34,7 @@ const filteredList = computed(() => {
 
       <p class="mt-5">AnyDeck is a generic deck of numbered cards for playing a variety of different card games. The
         deck
-        consists of 8 suits with cards numbered 0-15 with 4 of those suits including numbers -3, -2 and -1.</p>
+        consists of 8 suits with cards numbered 0-15 with 4 of those suits including the numbers -3, -2 and -1 and another 0.</p>
       <br/>
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>
