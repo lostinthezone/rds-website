@@ -5,7 +5,9 @@
   <div class="border-b-1 border-gray-200">
     <header class="container mx-auto flex justify-between items-center p-2">
       <div>
-        <img src="/rds-long-logo.png" alt="RDS logo" class="max-w-xs"/>
+        <NuxtLink to="/">
+          <img src="/rds-long-logo.png" alt="RDS logo" class="max-w-xs"/>
+        </NuxtLink>
       </div>
       <nav>
         <ul class="flex space-x-10 text-xl">
