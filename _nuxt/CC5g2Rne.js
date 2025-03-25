@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,d as a,a as c}from"./BfWuflPK.js";const r={},n={class:"p-8"};function i(l,e){return s(),o("div",n,e[0]||(e[0]=[a(" Email "),c("a",{href:"mailto:reallydigitalstuff@gmail.com"},"admin",-1),a(". ")]))}const f=t(r,[["render",i]]);export{f as default};
