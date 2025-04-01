@@ -34,7 +34,8 @@ const filteredList = computed(() => {
 
       <p class="mt-5">AnyDeck is a generic deck of numbered cards for playing a variety of different card games. The
         deck
-        consists of 8 suits with cards numbered 0-15 with 4 of those suits including the numbers -3, -2 and -1 and another 0.</p>
+        consists of 8 coloured suits with cards numbered 0 to 15 with 4 of those suits including the numbers -3, -2 and
+        -1 and another 0 card.</p>
       <br/>
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>

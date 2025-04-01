@@ -61,20 +61,7 @@
         that position and go to step 2
       </li>
     </ol>
-
-    <!--    <h3 class="text-2xl mb-2 mt-3">Time to Clang</h3>-->
-    <!--    <p>-->
-    <!--      Using 'Time to Clang' involves using the time it takes for two tunes to go from being synchronized to clanging to-->
-    <!--      determine how much the pitch fader should be adjusted.-->
-    <!--      Clanging means when it's audible that the two tracks are not synchronized. This is done by:-->
-    <!--    </p>-->
-    <!--    <ol class="list-decimal pl-10">-->
-    <!--      <li>Get the two tracks synchronized and listen to if it's faster or slower</li>-->
-    <!--      <li>Move the pitch based on how fast the track went from being synchronized to clanging</li>-->
-    <!--      <li>Use Push/Slow or Pitch Riding/Bending to get the tunes back synchronized</li>-->
-    <!--      <li>If the tunes are not synchronized (staying in beat) then go to step 1</li>-->
-    <!--    </ol>-->
-
+    
     <h3 class="text-2xl mb-2 mt-3">BPM Position</h3>
     <p>
       This involves remembering the position of the pitch for a particular BPM. This requires knowing the BPM of
