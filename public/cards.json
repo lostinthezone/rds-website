@@ -355,6 +355,16 @@
     "extraComponents": ["discard amount mapping"]
   },
   {
+    "name": "Petir",
+    "bgg": "https://boardgamegeek.com/boardgame/431022/petir",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-8 in 5 suits"],
+    "extraComponents": ["tracker"]
+  },  
+  {
     "name": "Robot Master",
     "bgg": "https://boardgamegeek.com/boardgame/37362/robot-master",
     "minPlayers": "1",
