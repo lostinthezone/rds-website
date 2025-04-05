@@ -50,17 +50,22 @@ const filteredList = computed(() => {
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
       
-      <UCard v-for="(game) in filteredList" :key="game.name" class="mt-5">
+      <UCard v-for="game in filteredList" :key="game.name" class="mt-5">
         <table class="table-auto border-separate border-spacing-2">
           <tbody>
           <tr>
             <td>Name</td>
-            <td>{{ game.name }} ({{ game.year }})</td>
+            <td>
+<!--              {{ game.name }} ({{ game.year }})-->
+              <ULink target="_blank" :to="game.bgg">{{ game.name }} ({{ game.year }})
+              <UIcon name="ic:baseline-launch" size="12"></UIcon>
+              </ULink>
+            </td>
           </tr>
-          <tr>
-            <td>BGG</td>
-            <td><a target="_blank" :href="game.bgg">Link</a></td>
-          </tr>
+<!--          <tr>-->
+<!--            <td>BGG</td>-->
+<!--            <td><a target="_blank" :href="game.bgg">Link</a></td>-->
+<!--          </tr>-->
           <tr>
             <td>Players</td>
             <td>{{ game.minPlayers }} - {{ game.maxPlayers }}</td>
