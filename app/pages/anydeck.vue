@@ -48,6 +48,8 @@ const filteredList = computed(() => {
         <UInput v-model="searchValue" icon="i-lucide-search" size="xl" variant="outline" placeholder="Search by name"/>
       </div>
       
+      <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
+      
       <UCard v-for="(game) in filteredList" :key="game.name" class="mt-5">
         <table class="table-auto border-separate border-spacing-2">
           <tbody>
