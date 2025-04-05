@@ -1,6 +1,6 @@
 [
   {
-    "name": "4 Seasons (untested)",
+    "name": "4 Seasons",
     "bgg": "https://boardgamegeek.com/boardgame/213304/4-seasons",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -10,7 +10,7 @@
     "extraComponents": ["bid mapping"]
   },
   {
-    "name": "10 Tricks Later (untested)",
+    "name": "10 Tricks Later",
     "bgg": "https://boardgamegeek.com/boardgame/406761/10-tricks-later",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -20,7 +20,7 @@
     "extraComponents": ["4x tracker boards"]    
   },
   {
-    "name": "Ambiente Abissal / Planet etuC (untested)",
+    "name": "Ambiente Abissal / Planet etuC",
     "bgg": "https://boardgamegeek.com/boardgame/324320/planet-etuc",
     "minPlayers": "2",
     "maxPlayers": "3",
@@ -30,7 +30,7 @@
     "extraComponents": ["1x strength card"]
   },
   {
-    "name": "American Bookstore (untested)",
+    "name": "American Bookstore",
     "bgg": "https://boardgamegeek.com/boardgame/292811/american-bookshop",
     "minPlayers": "3",
     "maxPlayers": "5",
@@ -39,7 +39,7 @@
     "components": ["0-11 in 4 suits", "4x 14 card for 2nd 0 card"]
   },
   {
-    "name": "Beasty Bar (untested)",
+    "name": "Beasty Bar",
     "bgg": "https://boardgamegeek.com/boardgame/165950/beasty-bar",
     "minPlayers": "2",
     "maxPlayers": "4",
@@ -59,7 +59,7 @@
     "extraComponents": ["1 card in each suit for priority"]
   },
   {
-    "name": "Bug Council (untested)",
+    "name": "Bug Council",
     "bgg": "https://boardgamegeek.com/boardgame/337255/bug-council-of-backyardia",
     "minPlayers": "1",
     "maxPlayers": "5",
@@ -76,16 +76,6 @@
     "year": "2024",
     "deck": "Standard",
     "components": ["1-6 in 4 suits"]
-  },
-  {
-    "name": "Cabanga (untested)",
-    "bgg": "https://boardgamegeek.com/boardgame/394889/cabanga",
-    "minPlayers": "3",
-    "maxPlayers": "6",
-    "year": "2023",
-    "deck": "AnyDeck",
-    "components": ["1-18 in four suits"],
-    "extraComponents": ["8x start cards in 1, 3, 5, 7, 12, 14, 16, 18"]
   },
   {
     "name": "Cabo",
@@ -116,7 +106,7 @@
     "components": ["1-18 in 5 suits", "3 players - 1-9", "4 players - 1-12", "5 players - 1-15", "6 players - 1-18"]
   },
   {
-    "name": "Dickory (untested)",
+    "name": "Dickory",
     "bgg": "https://boardgamegeek.com/boardgame/347218/dickory",
     "minPlayers": "2",
     "maxPlayers": "2",
@@ -136,7 +126,7 @@
     "extraComponents": ["player aid for trick strength"]
   },
   {
-    "name": "Draught Trick (untested)",
+    "name": "Draught Trick",
     "bgg": "https://boardgamegeek.com/boardgame/428294/draught-trick",
     "minPlayers": "3",
     "maxPlayers": "5",    
@@ -156,7 +146,7 @@
     "extraComponents": ["4 fort cards (flippable), 12 cubes of any colour"]
   },
   {
-    "name": "Fox in the Forest (untested)",
+    "name": "Fox in the Forest",
     "bgg": "https://boardgamegeek.com/boardgame/221965/the-fox-in-the-forest",
     "minPlayers": "2",
     "maxPlayers": "2",
@@ -184,7 +174,7 @@
     "components": ["0-9 in 5 suits"]
   },
   {
-    "name": "Ghost of Christmas (untested)",
+    "name": "Ghost of Christmas",
     "bgg": "https://boardgamegeek.com/boardgame/281619/ghosts-of-christmas",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -203,7 +193,7 @@
     "components": ["1-10 in 6 suits"]
   },
   {
-    "name": "Haggis (untested)",
+    "name": "Haggis",
     "bgg": "https://boardgamegeek.com/boardgame/37628/haggis",
     "minPlayers": "3",
     "maxPlayers": "3",
@@ -212,7 +202,7 @@
     "components": ["2-10 in 5 suits, 3x 11, 12, 13 in no suit"]
   },
   {
-    "name": "Hats (untested)",
+    "name": "Hats",
     "bgg": "https://boardgamegeek.com/boardgame/281658/hats",
     "minPlayers": "2",
     "maxPlayers": "4",
@@ -221,7 +211,7 @@
     "components": ["6 copies in 7 suits"]
   },
   {
-    "name": "Hipparchus (untested)",
+    "name": "Hipparchus",
     "bgg": "https://boardgamegeek.com/boardgame/400858/hipparchus",
     "minPlayers": "2",
     "maxPlayers": "2",
@@ -250,7 +240,7 @@
     "extraComponents": ["suit strength tracker", "position tracker"]
   },
   {
-    "name": "Linko (untested)",
+    "name": "Linko",
     "bgg": "https://boardgamegeek.com/boardgame/153065/linko",
     "minPlayers": "2",
     "maxPlayers": "5",
@@ -259,7 +249,7 @@
     "components": ["1-13 in 8 suits (number)", "5x 0 in any suit (jokers)"]
   },
   {
-    "name": "Loop (untested)",
+    "name": "Loop",
     "bgg": "https://boardgamegeek.com/boardgame/407173/loop",
     "minPlayers": "2",
     "maxPlayers": "4",
@@ -308,7 +298,7 @@
     "extraComponents": ["55 counters"]
   },
   {
-    "name": "Nokosu Dice (untested)",
+    "name": "Nokosu Dice",
     "bgg": "https://boardgamegeek.com/boardgame/294693/nokosu-dice",
     "minPlayers": "3",
     "maxPlayers": "5",
@@ -327,7 +317,7 @@
     "components": ["1-9 in 6 suits"]
   },
   {
-    "name": "Of What's Left (untested)",
+    "name": "Of What's Left",
     "bgg": "https://boardgamegeek.com/boardgame/369509/of-whats-left",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -374,7 +364,7 @@
     "components": ["0-5 with 6 copies"]
   },
   {
-    "name": "Sakana Stack (untested)",
+    "name": "Sakana Stack",
     "bgg": "https://boardgamegeek.com/boardgame/413838/sakana-stack",
     "minPlayers": "2",
     "maxPlayers": "5",
@@ -383,7 +373,7 @@
     "components": ["1-10 in 6 suits"]
   },
   {
-    "name": "Savage Bowl (untested)",
+    "name": "Savage Bowl",
     "bgg": "https://boardgamegeek.com/boardgame/383791/savage-bowl-trick-taking-game",
     "minPlayers": "4",
     "maxPlayers": "5",
@@ -393,7 +383,7 @@
     "extraComponents": ["score tracker", "1x yellow card"]
   },
   {
-    "name": "Schadenfreude (untested)",
+    "name": "Schadenfreude",
     "bgg": "https://boardgamegeek.com/boardgame/324711/schadenfreude",
     "minPlayers": "3",
     "maxPlayers": "5",
@@ -420,7 +410,7 @@
     "components": ["1-13 in 4 suits"]
   },
   {
-    "name": "Stealth School (untested)",
+    "name": "Stealth School",
     "bgg": "https://boardgamegeek.com/boardgame/410112/ren-nogatsukou-shinobi-no-gakko",
     "minPlayers": "3",
     "maxPlayers": "5",
@@ -438,7 +428,7 @@
     "components": ["1-15 in 4 suits"]
   },
   {
-    "name": "Skull King (untested)",
+    "name": "Skull King",
     "bgg": "https://boardgamegeek.com/boardgame/150145/skull-king",
     "minPlayers": "2",
     "maxPlayers": "8",
@@ -505,7 +495,7 @@
     "extraComponents": ["dice for hand strength"]
   },
   {
-    "name": "The Green Fivura (untested)",
+    "name": "The Green Fivura",
     "bgg": "https://boardgamegeek.com/boardgame/374024/the-green-fivura",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -524,7 +514,7 @@
     "extraComponents": ["strength tracker for the elements"]
   },
   {
-    "name": "Tichu (untested)",
+    "name": "Tichu",
     "bgg": "https://boardgamegeek.com/boardgame/215/tichu",
     "minPlayers": "4",
     "maxPlayers": "4",
@@ -543,7 +533,7 @@
     "extraComponents": ["spicy mode mapping"]    
   },
   {
-    "name": "Torchlit (untested)",
+    "name": "Torchlit",
     "bgg": "https://boardgamegeek.com/boardgame/433205/torchlit",
     "minPlayers": "3",
     "maxPlayers": "5",
@@ -562,7 +552,7 @@
     "components": ["1-8 in 6 suits"]
   },
   {
-    "name": "Vivo (untested)",
+    "name": "Vivo",
     "bgg": "https://boardgamegeek.com/boardgame/420242/vivo",
     "minPlayers": "3",
     "maxPlayers": "4",
@@ -591,7 +581,7 @@
     "components": ["1-13 in 4 suits and 4x 0 (joker) cards and 4x 14 (wizard) cards"]
   },
   {
-    "name": "Yokai Septet (untested)",
+    "name": "Yokai Septet",
     "bgg": "https://boardgamegeek.com/boardgame/251433/yokai-septet",
     "minPlayers": "3",
     "maxPlayers": "4",
