@@ -24,12 +24,11 @@
     <slot/>
   </div>
 
-  <div class="border-t-1 border-gray-200 mt-10">
-    <div class="container mx-auto pt-8 pb-8">
-      Copyright @ 2025  
-    </div>
-    
-  </div>
+<!--  <div class="border-t-1 border-gray-200 mt-10">-->
+<!--    <div class="container mx-auto pt-8 pb-8">-->
+<!--      Copyright @ 2025  -->
+<!--    </div>-->
+<!--  </div>-->
   
 </template>
 
