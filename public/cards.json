@@ -55,8 +55,8 @@
     "maxPlayers": "5",
     "year": "2017",
     "deck": "Standard",
-    "components": ["1-11 in 3 suits"],
-    "extraComponents": ["1 card in each suit for priority"]
+    "components": ["1-11 in 3 suits", "1 card in each suit for priority"],
+    "extraComponents": []
   },
   {
     "name": "Bug Council of Backyardia",
@@ -65,8 +65,8 @@
     "maxPlayers": "5",
     "year": "2022",
     "deck": "AnyDeck",
-    "components": ["1-12 in 5 suits"],
-    "extraComponents": ["1x card in each suit for region, 18 cubes"]
+    "components": ["1-12 in 5 suits", "1x card in each suit for each region"],
+    "extraComponents": ["18 cubes"]
   },
   {
     "name": "Bubble Gum",
