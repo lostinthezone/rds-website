@@ -87,6 +87,15 @@
     "components": ["13 cards in 4 suits (suits not used)"]
   },
   {
+    "name": "Cauldron 15",
+    "bgg": "https://boardgamegeek.com/boardgame/351874/korudoron15mo-nu-noda-fu-cauldron-15-witchs-cauldr",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2021",
+    "deck": "AnyDeck",
+    "components": ["0-7 in 5 suites", "1 card in each suit for trump"]
+  },  
+  {
     "name": "Combo (Surfasaurus Max)",
     "bgg": "https://boardgamegeek.com/boardgame/394887/surfosaurus-max",
     "minPlayers": "2",
@@ -246,7 +255,7 @@
     "maxPlayers": "5",
     "year": "2014",
     "deck": "AnyDeck",
-    "components": ["1-13 in 8 suits (number)", "5x 0 in any suit (jokers)"]
+    "components": ["1-13 in 8 suits (number)", "5x 0 in any suit for jokers"]
   },
   {
     "name": "Loop",

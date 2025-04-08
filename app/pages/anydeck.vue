@@ -1,5 +1,12 @@
 <script setup lang="ts">
 
+useHead({
+  title: 'Really Digital Stuff - AnyDeck',
+  meta: [
+    { name: 'description', content: 'AnyDeck is a generic deck of numbered cards for playing a variety of different card games.' }
+  ]
+})
+
 interface CardGame {
   name: string;
   bgg: string;
@@ -40,6 +47,10 @@ const filteredList = computed(() => {
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>
 
+      <div class="pt-5">
+        <img src="/anydeck-cards.png" alt="AnyDeck cards"/>
+      </div>
+      
       <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
 
       <p>The following are some of the games playable using AnyDeck.</p>
@@ -51,21 +62,16 @@ const filteredList = computed(() => {
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
       
       <UCard v-for="game in filteredList" :key="game.name" class="mt-5">
+        
+        <template #header>
+          <ULink target="_blank" :to="game.bgg">
+            <span class="text-xl">{{ game.name }} ({{ game.year }})</span>
+            <UIcon name="ic:baseline-launch" size="16"></UIcon>
+          </ULink>
+        </template>
+        
         <table class="table-auto border-separate border-spacing-2">
           <tbody>
-          <tr>
-            <td>Name</td>
-            <td>
-<!--              {{ game.name }} ({{ game.year }})-->
-              <ULink target="_blank" :to="game.bgg">{{ game.name }} ({{ game.year }})
-              <UIcon name="ic:baseline-launch" size="12"></UIcon>
-              </ULink>
-            </td>
-          </tr>
-<!--          <tr>-->
-<!--            <td>BGG</td>-->
-<!--            <td><a target="_blank" :href="game.bgg">Link</a></td>-->
-<!--          </tr>-->
           <tr>
             <td>Players</td>
             <td>{{ game.minPlayers }} - {{ game.maxPlayers }}</td>
@@ -94,8 +100,6 @@ const filteredList = computed(() => {
               </ul>
             </td>
           </tr>
-
-
           </tbody>
         </table>
       </UCard>

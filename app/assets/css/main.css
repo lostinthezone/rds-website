@@ -2,9 +2,10 @@
 @import "@nuxt/ui";
 
 @theme {
-  --font-sans: 'Public Sans', sans-serif;
+  --font-sans: 'Roboto', sans-serif;
 }
 
 a {
-  @apply text-black hover:text-green-700 visited:text-black
+  /*@apply text-black hover:text-green-700 visited:text-black*/
 }
+
