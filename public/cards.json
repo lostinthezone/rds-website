@@ -59,7 +59,7 @@
     "extraComponents": ["1 card in each suit for priority"]
   },
   {
-    "name": "Bug Council",
+    "name": "Bug Council of Backyardia",
     "bgg": "https://boardgamegeek.com/boardgame/337255/bug-council-of-backyardia",
     "minPlayers": "1",
     "maxPlayers": "5",
@@ -93,7 +93,7 @@
     "maxPlayers": "5",
     "year": "2021",
     "deck": "AnyDeck",
-    "components": ["0-7 in 5 suites", "1 card in each suit for trump"]
+    "components": ["0-7 in 5 suites", "1 card in each suit for trump selector"]
   },  
   {
     "name": "Combo (Surfasaurus Max)",

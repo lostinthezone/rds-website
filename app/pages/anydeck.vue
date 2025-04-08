@@ -64,9 +64,9 @@ const filteredList = computed(() => {
       <UCard v-for="game in filteredList" :key="game.name" class="mt-5">
         
         <template #header>
-          <ULink target="_blank" :to="game.bgg">
+          <ULink target="_blank" :to="game.bgg" external>
             <span class="text-xl">{{ game.name }} ({{ game.year }})</span>
-            <UIcon name="ic:baseline-launch" size="16"></UIcon>
+            <UIcon name="ic:baseline-launch" size="16" class="ml-2"></UIcon>
           </ULink>
         </template>
         
@@ -81,7 +81,7 @@ const filteredList = computed(() => {
             <td>{{ game.deck }}</td>
           </tr>
           <tr>
-            <td>Components</td>
+            <td class="align-top">Components</td>
             <td>
               <ul class="flex-col">
                 <li v-for="(item) in game.components">
@@ -91,8 +91,8 @@ const filteredList = computed(() => {
             </td>
           </tr>
           <tr>
-            <td>Extra Components</td>
-            <td>
+            <td class="align-top">Extra Components</td>
+            <td class="align-top">
               <ul class="flex-col">
                 <li v-for="(item) in game.extraComponents">
                   {{ item }}
