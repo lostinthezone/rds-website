@@ -249,7 +249,7 @@
     "extraComponents": ["3 player - 1-9 in 4 suits", "4 player - 1-12 in 4 suits", "5 player - 1-12 in 5 suits", "6 player - 1-12 in 6 suits"]
   },
   {
-    "name": "Jekyl vs Hyde",
+    "name": "Jekyll vs Hyde",
     "bgg": "https://boardgamegeek.com/boardgame/297129/jekyll-vs-hyde",
     "minPlayers": "2",
     "maxPlayers": "2",
@@ -258,6 +258,16 @@
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
     "extraComponents": ["suit strength tracker", "position tracker"]
   },
+  {
+    "name": "Jekyll and Hyde vs Scotland Yard",
+    "bgg": "https://boardgamegeek.com/boardgame/377793/jekyll-and-hyde-vs-scotland-yard",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2023",
+    "deck": "Standard",
+    "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
+    "extraComponents": ["suit strength tracker", "position tracker"]
+  },  
   {
     "name": "Linko",
     "bgg": "https://boardgamegeek.com/boardgame/153065/linko",
