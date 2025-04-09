@@ -96,6 +96,16 @@
     "components": ["0-7 in 5 suites", "1 card in each suit for trump selector"]
   },  
   {
+    "name": "Corgi Pileup",
+    "bgg": "https://boardgamegeek.com/boardgame/436935/corgi-pileup",
+    "minPlayers": "2",
+    "maxPlayers": "7",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 5 suits"],
+    "extraComponents": ["Score tracker", "Power cards mapping"]
+  },
+  {
     "name": "Combo (Surfasaurus Max)",
     "bgg": "https://boardgamegeek.com/boardgame/394887/surfosaurus-max",
     "minPlayers": "2",
@@ -548,8 +558,8 @@
     "maxPlayers": "6",
     "year": "2021",
     "deck": "Standard",
-    "components": ["1-12 with 3 copies of each"],
-    "extraComponents": ["spicy mode mapping"]    
+    "components": ["1-12 with 3 copies of each (suits not used)"],
+    "extraComponents": ["Spicy mode mapping"]    
   },
   {
     "name": "Torchlit",
@@ -558,8 +568,8 @@
     "maxPlayers": "5",
     "year": "2024",
     "deck": "AnyDeck",
-    "components": ["0-7 in 7 suits"],
-    "extraComponents": ["1-8 in one suit", "4 player tokens"]    
+    "components": ["4 player - 0-7 in 7 suits", "3 player - 0-6 in 6 suits", "0-7 in one suit (Dungeon cards)"],
+    "extraComponents": ["3-5 player tokens"]    
   },
   {
     "name": "Ultimatch",
