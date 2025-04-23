@@ -4,7 +4,8 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxt/ui',
-    '@nuxt/eslint'
+    '@nuxt/eslint',
+    'nuxt-gtag'
   ],
 
   css: ['~/assets/css/main.css'],
@@ -19,5 +20,9 @@ export default defineNuxtConfig({
   
   routeRules: {
     '/': { redirect: '/anydeck' }
+  },
+
+  gtag: {
+    id: 'G-DRVYT8MCWP'
   }
 })

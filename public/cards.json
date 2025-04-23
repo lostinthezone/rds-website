@@ -562,6 +562,15 @@
     "components": ["13 cards in 4 suits", "4x extra cards"]
   },
   {
+    "name": "Trick & Snipers",
+    "bgg": "https://boardgamegeek.com/boardgame/420766/trick-and-snipers",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2024",
+    "deck": "Standard",
+    "components": ["1-12 in 4 suits"]
+  },  
+  {
     "name": "Trio",
     "bgg": "https://boardgamegeek.com/boardgame/352515/trio",
     "minPlayers": "3",
