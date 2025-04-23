@@ -35,6 +35,7 @@ const filteredList = computed(() => {
 
     <div class="flex content-center justify-center">
       <img src="/anydeck-logo.png" alt="Anydeck logo" class="max-w-lg"/>
+      <img src="/anydeck-cards-block.png" alt="Anydeck cards" class="max-w-lg ml-4"/>
     </div>
 
     <div class="flex flex-col">
@@ -47,9 +48,9 @@ const filteredList = computed(() => {
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>
 
-      <div class="pt-5">
-        <img src="/anydeck-cards.png" alt="AnyDeck cards"/>
-      </div>
+<!--      <div class="pt-5">-->
+<!--        <img src="/anydeck-cards.png" alt="AnyDeck cards"/>-->
+<!--      </div>-->
       
       <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
 
@@ -70,38 +71,45 @@ const filteredList = computed(() => {
           </ULink>
         </template>
         
-        <table class="table-auto border-separate border-spacing-2">
-          <tbody>
-          <tr>
-            <td>Players</td>
-            <td>{{ game.minPlayers }} - {{ game.maxPlayers }}</td>
-          </tr>
-          <tr>
-            <td>Deck</td>
-            <td>{{ game.deck }}</td>
-          </tr>
-          <tr>
-            <td class="align-top">Components</td>
-            <td>
-              <ul class="flex-col">
-                <li v-for="(item) in game.components">
-                  {{ item }}
-                </li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td class="align-top">Extra Components</td>
-            <td class="align-top">
-              <ul class="flex-col">
-                <li v-for="(item) in game.extraComponents">
-                  {{ item }}
-                </li>
-              </ul>
-            </td>
-          </tr>
-          </tbody>
-        </table>
+        <div class="flex">
+<!--          <div><img width="120" height="120" src="https://cf.geekdo-images.com/y6hqLvJoe9GKlJQ4P1nL8w__original/img/2ggQL9koaekZOVLfu6sFYZpLZqU=/0x0/filters:format(jpeg)/pic7870562.jpg" alt="Image"/> </div>-->
+          <div>
+            <table class="table-auto border-separate border-spacing-2">
+              <tbody>
+              <tr>
+                <td>Players</td>
+                <td>{{ game.minPlayers }} - {{ game.maxPlayers }}</td>
+              </tr>
+              <tr>
+                <td>Deck</td>
+                <td>{{ game.deck }}</td>
+              </tr>
+              <tr>
+                <td class="align-top">Components</td>
+                <td>
+                  <ul class="flex-col">
+                    <li v-for="(item) in game.components">
+                      {{ item }}
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td class="align-top">Extra Components</td>
+                <td class="align-top">
+                  <ul class="flex-col">
+                    <li v-for="(item) in game.extraComponents">
+                      {{ item }}
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              </tbody>
+            </table>            
+          </div>
+        </div>
+        
+        
       </UCard>
     </div>
 
