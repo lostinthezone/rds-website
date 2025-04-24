@@ -43,14 +43,10 @@ const filteredList = computed(() => {
       <p class="mt-5">AnyDeck is a generic deck of numbered cards for playing a variety of different card games. The
         deck
         consists of 8 coloured suits with cards numbered 0 to 15 with 4 of those suits including the numbers -3, -2 and
-        -1 and another 0 card.</p>
+        -1 and another 0 card for a total of a 144 cards.</p>
       <br/>
       <p>Available using print on demand @ <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>
-
-<!--      <div class="pt-5">-->
-<!--        <img src="/anydeck-cards.png" alt="AnyDeck cards"/>-->
-<!--      </div>-->
       
       <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
 
@@ -73,7 +69,6 @@ const filteredList = computed(() => {
         </template>
         
         <div class="flex">
-<!--          <div><img width="120" height="120" src="https://cf.geekdo-images.com/y6hqLvJoe9GKlJQ4P1nL8w__original/img/2ggQL9koaekZOVLfu6sFYZpLZqU=/0x0/filters:format(jpeg)/pic7870562.jpg" alt="Image"/> </div>-->
           <div>
             <table class="table-auto border-separate border-spacing-2">
               <tbody>
@@ -109,8 +104,6 @@ const filteredList = computed(() => {
             </table>            
           </div>
         </div>
-        
-        
       </UCard>
       </div>
     </div>
