@@ -57,13 +57,13 @@ const filteredList = computed(() => {
       <p>The following are some of the games playable using AnyDeck.</p>
 
       <div class="mt-4">
-        <UInput v-model="searchValue" icon="i-lucide-search" size="xl" variant="outline" placeholder="Search by name"/>
+        <UInput v-model="searchValue" icon="i-lucide-search" size="xl" class="w-xl"  variant="outline" placeholder="Search by name"/>
       </div>
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
       
-      <div class="flex flex-wrap gap-4">
-      <UCard v-for="game in filteredList" :key="game.name" class="mt-5">
+      <div class="flex-col gap-4">
+      <UCard v-for="game in filteredList" :key="game.name" class="mt-4 w-2xl">
         
         <template #header>
           <ULink target="_blank" :to="game.bgg" external>
