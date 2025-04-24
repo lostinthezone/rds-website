@@ -31,7 +31,7 @@ const filteredList = computed(() => {
 </script>
 
 <template>
-  <div class="flex flex-col pt-8">
+  <div class="flex flex-col pt-8 pb-20">
 
     <div class="flex content-center justify-center">
       <img src="/anydeck-logo.png" alt="Anydeck logo" class="max-w-lg"/>
