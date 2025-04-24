@@ -1,4 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+  useTrackEvent("event", {
+    when: new Date().getTimezoneOffset(),
+    page: 'contact'
+  });
+</script>
 
 <template>
   <div class="pt-8">
