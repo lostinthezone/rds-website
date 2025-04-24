@@ -1,8 +1,15 @@
 <script setup lang="ts">
-  useTrackEvent("event", {
+  useTrackEvent("contact_event", {
     when: new Date().getTimezoneOffset(),
     page: 'contact'
   });
+
+  useHead({
+    title: 'Really Digital Stuff - Contact',
+    meta: [
+      { name: 'description', content: 'Contact Really Digital Stuff' }
+    ]
+  })  
 </script>
 
 <template>
