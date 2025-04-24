@@ -175,15 +175,6 @@
     "extraComponents": ["ability mapping"]
   },
   {
-    "name": "FTW?!",
-    "bgg": "https://boardgamegeek.com/boardgame/390094/ftw",
-    "minPlayers": "2",
-    "maxPlayers": "6",
-    "year": "2023",
-    "deck": ["6 Nimmt"],
-    "components": ["1-60"]
-  },
-  {
     "name": "GAP",
     "bgg": "https://boardgamegeek.com/boardgame/370130/gap",
     "minPlayers": "2",
@@ -317,15 +308,14 @@
     "extraComponents": ["score tracking tokens"]
   },
   {
-    "name": "No Thanks!",
-    "bgg": "https://boardgamegeek.com/boardgame/12942/no-thanks",
-    "minPlayers": "3",
-    "maxPlayers": "7",
-    "year": "2004",
-    "deck": "6 Nimmt",
-    "components": ["3-35"], 
-    "extraComponents": ["55 counters"]
-  },
+    "name": "Ninety-Nine",
+    "bgg": "https://boardgamegeek.com/boardgame/6688/ninety-nine",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "1974",
+    "deck": "Standard",
+    "components": ["1-9 in 4 suits"]
+  },  
   {
     "name": "Nokosu Dice",
     "bgg": "https://boardgamegeek.com/boardgame/294693/nokosu-dice",
@@ -515,23 +505,13 @@
     "components": ["1-10 in 4 suits and 1 red 0 card"]
   },
   {
-    "name": "The Game",
-    "bgg": "https://boardgamegeek.com/boardgame/173090/the-game",
-    "minPlayers": "1",
-    "maxPlayers": "5",
-    "year": "2015",
-    "deck": "6 Nimmt",
-    "components": ["2-99"],
-    "extraComponents": ["2 ascending cards", "2 descending cards"]
-  },
-  {
     "name": "The Gang (base)",
     "bgg": "https://boardgamegeek.com/boardgame/411567/the-gang",
     "minPlayers": "3",
     "maxPlayers": "6",
     "year": "2024",
     "deck": "Standard",
-    "extraComponents": ["dice for hand strength"]
+    "extraComponents": ["Dice for hand strength"]
   },
   {
     "name": "The Green Fivura",

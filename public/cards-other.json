@@ -1,0 +1,65 @@
+[
+  {
+    "name": "FTW?!",
+    "bgg": "https://boardgamegeek.com/boardgame/390094/ftw",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2023",
+    "deck": ["6 Nimmt"],
+    "components": ["1-60"]
+  },
+  {
+    "name": "No Thanks!",
+    "bgg": "https://boardgamegeek.com/boardgame/12942/no-thanks",
+    "minPlayers": "3",
+    "maxPlayers": "7",
+    "year": "2004",
+    "deck": "6 Nimmt",
+    "components": ["3-35"], 
+    "extraComponents": ["55 counters"]
+  },
+  {
+    "name": "The Game",
+    "bgg": "https://boardgamegeek.com/boardgame/173090/the-game",
+    "minPlayers": "1",
+    "maxPlayers": "5",
+    "year": "2015",
+    "deck": "6 Nimmt",
+    "components": ["2-99"],
+    "extraComponents": ["2 ascending cards", "2 descending cards"]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
