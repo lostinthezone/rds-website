@@ -505,6 +505,15 @@
     "components": ["1-10 in 4 suits and 1 red 0 card"]
   },
   {
+    "name": "Thank You, Santa",
+    "bgg": "https://boardgamegeek.com/boardgame/434158/thank-you-santa",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "extraComponents": ["0-14 in 5 suits"]
+  },  
+  {
     "name": "The Gang (base)",
     "bgg": "https://boardgamegeek.com/boardgame/411567/the-gang",
     "minPlayers": "3",

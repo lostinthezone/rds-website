@@ -62,6 +62,7 @@ const filteredList = computed(() => {
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
       
+      <div class="flex flex-wrap gap-4">
       <UCard v-for="game in filteredList" :key="game.name" class="mt-5">
         
         <template #header>
@@ -111,6 +112,7 @@ const filteredList = computed(() => {
         
         
       </UCard>
+      </div>
     </div>
 
   </div>
