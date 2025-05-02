@@ -45,7 +45,7 @@ const filteredList = computed(() => {
         consists of 8 coloured suits with cards numbered 0 to 15 with 4 of those suits including the numbers -3, -2 and
         -1 and another 0 card for a total of a 144 cards.</p>
       <br/>
-      <p>Available using print on demand @ <a href="https://www.thegamecrafter.com/games/anydeck">The Game Crafter</a> and <a href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
+      <p>Available using print on demand @ <a target="_blank" href="https://www.thegamecrafter.com/games/anydeck">The Game Crafter</a> and <a target="_blank" href="https://www.makeplayingcards.com/sell/reallydigitalstuff">Make
         Playing Cards</a>.</p>
       
       <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
