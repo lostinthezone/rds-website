@@ -7,7 +7,7 @@
     "year": "2016",
     "deck": "Standard",
     "components": ["1-9 in 4 suits", "1x 0 (butterfly)"],
-    "extraComponents": ["bid mapping"]
+    "extraComponents": ["Bid mapping"]
   },
   {
     "name": "10 Tricks Later",
@@ -46,8 +46,18 @@
     "year": "2014",
     "deck": "Standard",
     "components": ["1-12 in 4 suits"],
-    "extraComponents": ["actions mapping"]
+    "extraComponents": ["Actions mapping"]
   },
+  {
+    "name": "Bid Coin",
+    "bgg": "https://boardgamegeek.com/boardgame/436178/bid-coin",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2014",
+    "deck": "Standard",
+    "components": ["0-10 in 5 suits"],
+    "extraComponents": ["2, 3, 5, 7 x4, 1 x9 bid cards"]
+  },  
   {
     "name": "Boast or Nothing",
     "bgg": "https://boardgamegeek.com/boardgame/223952/boast-or-nothing",
@@ -56,7 +66,6 @@
     "year": "2017",
     "deck": "Standard",
     "components": ["1-11 in 3 suits", "1 card in each suit for priority"],
-    "extraComponents": []
   },
   {
     "name": "Bug Council of Backyardia",
@@ -87,13 +96,23 @@
     "components": ["13 cards in 4 suits (suits not used)"]
   },
   {
+    "name": "Cat Sabbath (basic)",
+    "bgg": "https://boardgamegeek.com/boardgame/423314/cat-sabbath",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 5 suits"],
+    "extraComponents": ["5 markers x 4 players"]
+  },  
+  {
     "name": "Cauldron 15",
     "bgg": "https://boardgamegeek.com/boardgame/351874/korudoron15mo-nu-noda-fu-cauldron-15-witchs-cauldr",
     "minPlayers": "2",
     "maxPlayers": "5",
     "year": "2021",
     "deck": "AnyDeck",
-    "components": ["0-7 in 5 suites", "1 card in each suit for trump selector"]
+    "components": ["0-7 in 5 suites", "1 card in each suit for trump selection"]
   },  
   {
     "name": "Corgi Pileup",
@@ -113,7 +132,7 @@
     "year": "2023",
     "deck": "AnyDeck",
     "components": ["1-12 in 7 suits"],
-    "extraComponents": ["score mapping from card to coconuts"]
+    "extraComponents": ["Score mapping from card to coconuts"]
   },
   {
     "name": "David & Goliath",
@@ -132,7 +151,7 @@
     "year": "2021",
     "deck": "Standard",
     "components": ["1-12 with 4 copies"],
-    "extraComponents": ["clock board"]
+    "extraComponents": ["Clock board"]
   },
   {
     "name": "Dog Tag Trick",
@@ -142,7 +161,7 @@
     "year": "2020",
     "deck": "Standard",
     "components": ["1-9 in 4 suits (5 can be played as a 10)"],
-    "extraComponents": ["player aid for trick strength"]
+    "extraComponents": ["Player aid for trick strength"]
   },
   {
     "name": "Draught Trick",
@@ -172,7 +191,7 @@
     "year": "2017",
     "deck": "Standard",
     "components": ["1-11 in 3 suits"],
-    "extraComponents": ["ability mapping"]
+    "extraComponents": ["Ability mapping"]
   },
   {
     "name": "GAP",
@@ -191,7 +210,7 @@
     "year": "2019",
     "deck": "Standard",
     "components": ["1-12 in 4 suits"],
-    "extraComponents": ["time period tracking per player", "3x cards per suit for lead suit in time period"]    
+    "extraComponents": ["Time period tracking per player", "3x cards per suit for lead suit in time period"]    
   },
   {
     "name": "Gummi Trick",
@@ -247,7 +266,7 @@
     "year": "2021",
     "deck": "Standard",
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
-    "extraComponents": ["suit strength tracker", "position tracker"]
+    "extraComponents": ["Suit strength tracker", "Position tracker"]
   },
   {
     "name": "Jekyll and Hyde vs Scotland Yard",
@@ -257,7 +276,7 @@
     "year": "2023",
     "deck": "Standard",
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
-    "extraComponents": ["suit strength tracker", "position tracker"]
+    "extraComponents": ["Suit strength tracker", "Position tracker"]
   },  
   {
     "name": "Linko",
@@ -276,7 +295,7 @@
     "year": "2023",
     "deck": "AnyDeck",
     "components": ["1-15 in 3 suits"],
-    "extraComponents": ["scoring cards"]
+    "extraComponents": ["Scoring cards"]
   },
   {
     "name": "Lost Cities",
@@ -295,7 +314,7 @@
     "year": "2014",
     "deck": "AnyDeck",
     "components": ["1-10 with 6 copies of each"],
-    "extraComponents": ["strength tracking cards"]
+    "extraComponents": ["Strength tracking cards"]
   },
   {
     "name": "Marshmallow Test",
@@ -305,7 +324,7 @@
     "year": "2020",
     "deck": "AnyDeck",
     "components": ["1-12 in 5 colours"],
-    "extraComponents": ["score tracking tokens"]
+    "extraComponents": ["Score tracking tokens"]
   },
   {
     "name": "Ninety-Nine",
@@ -371,7 +390,7 @@
     "year": "2024",
     "deck": "AnyDeck",
     "components": ["1-10 in 5 suits"],
-    "extraComponents": ["discard amount mapping"]
+    "extraComponents": ["Discard amount mapping"]
   },
   {
     "name": "Petir",
@@ -381,7 +400,7 @@
     "year": "2024",
     "deck": "AnyDeck",
     "components": ["1-8 in 5 suits"],
-    "extraComponents": ["tracker"]
+    "extraComponents": ["Tracker"]
   },  
   {
     "name": "Robot Master",
@@ -402,6 +421,15 @@
     "components": ["1-10 in 6 suits"]
   },
   {
+    "name": "Sandbags",
+    "bgg": "https://boardgamegeek.com/boardgame/412381/sandbag",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["0-10, 15 (rocket) in 5 suits"]
+  },  
+  {
     "name": "Savage Bowl",
     "bgg": "https://boardgamegeek.com/boardgame/383791/savage-bowl-trick-taking-game",
     "minPlayers": "4",
@@ -409,7 +437,7 @@
     "year": "2023",
     "deck": "AnyDeck",
     "components": ["1-13 in 4 suits (number)", "1-8 in 1 suit (trump)", "5x 0 (chameleon)"],
-    "extraComponents": ["score tracker", "1x yellow card"]
+    "extraComponents": ["Score tracker", "1x yellow card"]
   },
   {
     "name": "Schadenfreude",
@@ -464,7 +492,7 @@
     "year": "2013",
     "deck": "AnyDeck",
     "components": ["1-14 in 4 suits (with trump suit)", "1-14 in 1 suit (special cards)"],
-    "extraComponents": ["special cards mapping"]    
+    "extraComponents": ["Special cards mapping"]    
   },
   {
     "name": "Spring Cleaning",
@@ -474,7 +502,7 @@
     "year": "2024",
     "deck": "AnyDeck",
     "components": ["1-9 with 7 copies of each (suits not used)"],
-    "extraComponents": ["trash tracking"]
+    "extraComponents": ["Trash tracking"]
   },
   {
     "name": "Stick'em",
@@ -493,7 +521,7 @@
     "year": "2023",
     "deck": "Standard",
     "components": ["1-5 in 4 suits"],
-    "extraComponents": ["position tracker", "player aid"]
+    "extraComponents": ["Position tracker", "Player aid"]
   },
   {
     "name": "Tango",
@@ -539,7 +567,7 @@
     "year": "2024",
     "deck": "Standard",
     "components": ["7 cards in 4 suits (colours)"],
-    "extraComponents": ["strength tracker for the elements"]
+    "extraComponents": ["Strength tracker for the elements"]
   },
   {
     "name": "Tichu",
@@ -586,7 +614,7 @@
     "maxPlayers": "5",
     "year": "2024",
     "deck": "AnyDeck",
-    "components": ["1-8 in 6 suits"]
+    "components": ["1-8 in 6 suits (orange, green, red, yellow, blue, purple)"]
   },
   {
     "name": "Vivo",
