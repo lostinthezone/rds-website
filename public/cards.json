@@ -65,7 +65,7 @@
     "maxPlayers": "5",
     "year": "2017",
     "deck": "Standard",
-    "components": ["1-11 in 3 suits", "1 card in each suit for priority"],
+    "components": ["1-11 in 3 suits", "1 card in each suit for priority"]
   },
   {
     "name": "Bug Council of Backyardia",
