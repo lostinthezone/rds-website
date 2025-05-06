@@ -12,9 +12,7 @@
       </div>
       <nav>
         <ul class="flex space-x-10 text-xl">
-<!--          <li><NuxtLink to="/games">Games</NuxtLink></li>-->
           <li><NuxtLink to="/anydeck">AnyDeck</NuxtLink></li>
-<!--          <li><NuxtLink to="/mixing">Mixing</NuxtLink></li>-->
           <li><NuxtLink to="/contact">Contact</NuxtLink></li>
         </ul>
       </nav>
@@ -25,11 +23,11 @@
     <slot/>
   </div>
 
-<!--  <div class="border-t-1 border-gray-200 mt-10">-->
-<!--    <div class="container mx-auto pt-8 pb-8">-->
-<!--      Copyright @ 2025  -->
-<!--    </div>-->
-<!--  </div>-->
+  <div class="border-t-1 border-gray-200 mt-10">
+    <div class="container mx-auto pt-8 pb-8">
+      Copyright @ 2025  
+    </div>
+  </div>
   
 </template>
 
