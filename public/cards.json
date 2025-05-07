@@ -486,15 +486,6 @@
     "components": ["1-13 in 4 suits"]
   },
   {
-    "name": "Stealth School",
-    "bgg": "https://boardgamegeek.com/boardgame/410112/ren-nogatsukou-shinobi-no-gakko",
-    "minPlayers": "3",
-    "maxPlayers": "5",
-    "year": "2023",
-    "deck": "AnyDeck",
-    "components": ["1-13 with 5 copies"]
-  },
-  {
     "name": "Shut the Books",
     "bgg": "https://boardgamegeek.com/boardgame/420891/shut-the-books",
     "minPlayers": "3",
@@ -514,6 +505,16 @@
     "extraComponents": ["Special cards mapping"]    
   },
   {
+    "name": "Sluff Off!",
+    "bgg": "https://boardgamegeek.com/boardgame/8129/sluff-off",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2003",
+    "deck": "AnyDeck",
+    "components": ["1-15 in 5 suits (red, blue, green, orange, purple)"],
+    "extraComponents": ["Penalty tokens"]
+  },
+  {
     "name": "Spring Cleaning",
     "bgg": "https://boardgamegeek.com/boardgame/387015/spring-cleaning",
     "minPlayers": "2",
@@ -523,6 +524,15 @@
     "components": ["1-9 with 7 copies of each (suits not used)"],
     "extraComponents": ["Trash tracking"]
   },
+  {
+    "name": "Stealth School",
+    "bgg": "https://boardgamegeek.com/boardgame/410112/ren-nogatsukou-shinobi-no-gakko",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-13 with 5 copies"]
+  },  
   {
     "name": "Stick'em",
     "bgg": "https://boardgamegeek.com/boardgame/354/stick-em",
