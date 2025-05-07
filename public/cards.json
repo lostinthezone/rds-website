@@ -112,7 +112,7 @@
     "maxPlayers": "5",
     "year": "2021",
     "deck": "AnyDeck",
-    "components": ["0-7 in 5 suites", "1 card in each suit for trump selection"]
+    "components": ["0-7 in 5 suits", "1 card in each suit for trump selection"]
   },  
   {
     "name": "Corgi Pileup",
@@ -135,6 +135,16 @@
     "extraComponents": ["Score mapping from card to coconuts"]
   },
   {
+    "name": "Crisps!",
+    "bgg": "https://boardgamegeek.com/boardgame/415108/crisps",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2025",
+    "deck": "Standard",
+    "components": ["1-10 in 4 suits"],
+    "extraComponents": ["Combinations helper"]
+  },
+  {
     "name": "David & Goliath",
     "bgg": "https://boardgamegeek.com/image/167544/david-and-goliath",
     "minPlayers": "3",
@@ -143,6 +153,16 @@
     "deck": "AnyDeck",
     "components": ["1-18 in 5 suits", "3 players - 1-9", "4 players - 1-12", "5 players - 1-15", "6 players - 1-18"]
   },
+  {
+    "name": "Dealt!",
+    "bgg": "https://boardgamegeek.com/boardgame/243430/dealt",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2018",
+    "deck": "AnyDeck",
+    "components": ["1-12 x4", "1-6 in another suit (special cards)"],
+    "extraComponents": ["15 cubes"]
+  },  
   {
     "name": "Dickory",
     "bgg": "https://boardgamegeek.com/boardgame/347218/dickory",
@@ -160,7 +180,7 @@
     "maxPlayers": "5",
     "year": "2020",
     "deck": "Standard",
-    "components": ["1-9 in 4 suits (5 can be played as a 10)"],
+    "components": ["1-9 in 4 suits"],
     "extraComponents": ["Player aid for trick strength"]
   },
   {
@@ -180,7 +200,7 @@
     "maxPlayers": "2",
     "year": "2023",
     "deck": "Standard",
-    "components": ["1-7 in four suits"],
+    "components": ["1-7 in 4 suits"],
     "extraComponents": ["4 fort cards (flippable), 12 cubes of any colour"]
   },
   {
@@ -254,9 +274,8 @@
     "minPlayers": "3",
     "maxPlayers": "9",
     "year": "1998",
-    "deck": "AnyDeck",
-    "components": ["1-18 in 6 suits"],
-    "extraComponents": ["3 player - 1-9 in 4 suits", "4 player - 1-12 in 4 suits", "5 player - 1-12 in 5 suits", "6 player - 1-12 in 6 suits"]
+    "deck": "AnyDeckClassic",
+    "components": ["1-18 in 6 suits", "3 player - 1-9 in 4 suits", "4 player - 1-12 in 4 suits", "5 player - 1-12 in 5 suits", "6 player - 1-12 in 6 suits"]
   },
   {
     "name": "Jekyll vs Hyde",
@@ -285,10 +304,10 @@
     "maxPlayers": "5",
     "year": "2014",
     "deck": "AnyDeck",
-    "components": ["1-13 in 8 suits (number)", "5x 0 in any suit for jokers"]
+    "components": ["1-13 x8", "5x 0 in any suit for jokers"]
   },
   {
-    "name": "Loop",
+    "name": "LOOP",
     "bgg": "https://boardgamegeek.com/boardgame/407173/loop",
     "minPlayers": "2",
     "maxPlayers": "4",
@@ -421,7 +440,7 @@
     "components": ["1-10 in 6 suits"]
   },
   {
-    "name": "Sandbags",
+    "name": "Sandbag",
     "bgg": "https://boardgamegeek.com/boardgame/412381/sandbag",
     "minPlayers": "3",
     "maxPlayers": "6",
@@ -437,7 +456,7 @@
     "year": "2023",
     "deck": "AnyDeck",
     "components": ["1-13 in 4 suits (number)", "1-8 in 1 suit (trump)", "5x 0 (chameleon)"],
-    "extraComponents": ["Score tracker", "1x yellow card"]
+    "extraComponents": ["Yellow card tracker", "Score tracker", "1x yellow card", "Round tracker"]
   },
   {
     "name": "Schadenfreude",
@@ -539,7 +558,7 @@
     "maxPlayers": "5",
     "year": "2024",
     "deck": "AnyDeck",
-    "extraComponents": ["0-14 in 5 suits"]
+    "components": ["0-14 in 5 suits"]
   },  
   {
     "name": "The Gang (base)",
@@ -548,6 +567,7 @@
     "maxPlayers": "6",
     "year": "2024",
     "deck": "Standard",
+    "components": ["0-13 in 4 suits"],    
     "extraComponents": ["Dice for hand strength"]
   },
   {
@@ -604,7 +624,7 @@
     "maxPlayers": "5",
     "year": "2024",
     "deck": "AnyDeck",
-    "components": ["4 player - 0-7 in 7 suits", "3 player - 0-6 in 6 suits", "0-7 in one suit (Dungeon cards)"],
+    "components": ["4 player - 0-7 in 7 suits", "3 player - 0-6 in 6 suits", "0-7 in any suit (Dungeon cards)"],
     "extraComponents": ["3-5 player tokens"]    
   },
   {
