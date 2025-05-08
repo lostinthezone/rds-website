@@ -10,6 +10,16 @@
     "extraComponents": ["Bid mapping"]
   },
   {
+    "name": "6 Forces",
+    "bgg": "https://boardgamegeek.com/boardgame/430995/6-forces",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 4 suits", "1 card in each suit and 1, 12 x players"],
+    "extraComponents": ["Bid tokens"]
+  },  
+  {
     "name": "10 Tricks Later",
     "bgg": "https://boardgamegeek.com/boardgame/406761/10-tricks-later",
     "minPlayers": "3",
@@ -353,6 +363,15 @@
     "year": "1974",
     "deck": "Standard",
     "components": ["1-9 in 4 suits"]
+  },
+  {
+    "name": "No Loose Ends",
+    "bgg": "https://boardgamegeek.com/boardgame/436936/no-loose-ends",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-15 in 4 suits", "1-4 in a suit (getaway cards)"]
   },  
   {
     "name": "Nokosu Dice",
