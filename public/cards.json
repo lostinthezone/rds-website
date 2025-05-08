@@ -657,6 +657,16 @@
     "extraComponents": ["4x 1-3", "3x 4"]    
   },
   {
+    "name": "Velonimo",
+    "bgg": "https://boardgamegeek.com/boardgame/323262/velonimo",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2020",
+    "deck": "AnyDeck",
+    "components": ["1-7 in 7 suits", "Yello jacket card", "1-6 in one suit (hare cards)"],
+    "extraComponents": ["Hare cards mapping"]
+  },  
+  {
     "name": "Wildlife Safari (Loco)",
     "bgg": "https://boardgamegeek.com/boardgame/398/wildlife-safari",
     "minPlayers": "2",
