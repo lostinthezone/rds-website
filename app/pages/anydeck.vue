@@ -34,8 +34,9 @@ const filteredList = computed(() => {
   <div class="flex flex-col pt-8 pb-20">
 
     <div class="flex content-center justify-center">
-      <img src="/anydeck-logo.png" alt="Anydeck logo" class="max-w-lg"/>
-      <img src="/anydeck-cards-block.png" alt="Anydeck cards" class="max-w-lg ml-4"/>
+<!--      <img src="/anydeck-logo.png" alt="Anydeck logo" class="max-w-lg"/>-->
+<!--      <img src="/anydeck-cards-block.png" alt="Anydeck cards" class="max-w-lg ml-4"/>-->
+      <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg"/>
     </div>
 
     <div class="flex flex-col">

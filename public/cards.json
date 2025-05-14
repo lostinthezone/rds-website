@@ -54,17 +54,37 @@
     "minPlayers": "2",
     "maxPlayers": "4",
     "year": "2014",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-12 in 4 suits"],
     "extraComponents": ["Actions mapping"]
   },
+  {
+    "name": "Beasty Bar: New Beasts in Town",
+    "bgg": "https://boardgamegeek.com/boardgame/181617/beasty-bar-new-beasts-in-town",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2015",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 4 suits"],
+    "extraComponents": ["Actions mapping"]
+  },  
+  {
+    "name": "Best Shot",
+    "bgg": "https://boardgamegeek.com/boardgame/435747/best-shot",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 6 suits"],
+    "extraComponents": ["Card rankings (drive, chip, putt)", "10 cubes in 2 colours (5 each)"]
+  },  
   {
     "name": "Bid Coin",
     "bgg": "https://boardgamegeek.com/boardgame/436178/bid-coin",
     "minPlayers": "3",
     "maxPlayers": "4",
     "year": "2014",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["0-10 in 5 suits"],
     "extraComponents": ["2, 3, 5, 7 x4, 1 x9 bid cards"]
   },  
@@ -74,7 +94,7 @@
     "minPlayers": "3",
     "maxPlayers": "5",
     "year": "2017",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-11 in 3 suits", "1 card in each suit for priority"]
   },
   {
@@ -93,7 +113,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-6 in 4 suits"]
   },
   {
@@ -102,7 +122,7 @@
     "minPlayers": "2",
     "maxPlayers": "4",
     "year": "2019",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["13 cards in 4 suits (suits not used)"]
   },
   {
@@ -150,7 +170,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2025",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-10 in 4 suits"],
     "extraComponents": ["Combinations helper"]
   },
@@ -179,7 +199,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2021",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-12 with 4 copies"],
     "extraComponents": ["Clock board"]
   },
@@ -189,7 +209,7 @@
     "minPlayers": "3",
     "maxPlayers": "5",
     "year": "2020",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-9 in 4 suits"],
     "extraComponents": ["Player aid for trick strength"]
   },
@@ -209,7 +229,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-7 in 4 suits"],
     "extraComponents": ["4 fort cards (flippable), 12 cubes of any colour"]
   },
@@ -219,7 +239,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2017",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-11 in 3 suits"],
     "extraComponents": ["Ability mapping"]
   },
@@ -238,7 +258,7 @@
     "minPlayers": "3",
     "maxPlayers": "4",
     "year": "2019",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-12 in 4 suits"],
     "extraComponents": ["Time period tracking per player", "3x cards per suit for lead suit in time period"]    
   },
@@ -257,7 +277,7 @@
     "minPlayers": "3",
     "maxPlayers": "3",
     "year": "2010",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["2-10 in 5 suits, 3x 11, 12, 13 in no suit"]
   },
   {
@@ -275,7 +295,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["10 copies in 3 colours"]
   },
   {
@@ -293,7 +313,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2021",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
     "extraComponents": ["Suit strength tracker", "Position tracker"]
   },
@@ -303,7 +323,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
     "extraComponents": ["Suit strength tracker", "Position tracker"]
   },  
@@ -361,7 +381,7 @@
     "minPlayers": "2",
     "maxPlayers": "4",
     "year": "1974",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-9 in 4 suits"]
   },
   {
@@ -398,7 +418,7 @@
     "minPlayers": "3",
     "maxPlayers": "4",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["2-13 in 4 suits"],
     "extraComponents": ["2x wild cards per player"]
   },
@@ -501,7 +521,7 @@
     "minPlayers": "2",
     "maxPlayers": "4",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-13 in 4 suits"]
   },
   {
@@ -567,7 +587,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2023",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-5 in 4 suits"],
     "extraComponents": ["Position tracker", "Player aid"]
   },
@@ -577,7 +597,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-10 in 4 suits and 1 red 0 card"]
   },
   {
@@ -595,7 +615,7 @@
     "minPlayers": "3",
     "maxPlayers": "6",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["0-13 in 4 suits"],    
     "extraComponents": ["Dice for hand strength"]
   },
@@ -605,7 +625,7 @@
     "minPlayers": "3",
     "maxPlayers": "4",
     "year": "2022",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-13 in 3 suits (orange, purple, red)", "0-4 and 6-13 in the green suit"]
   },
   {
@@ -614,7 +634,7 @@
     "minPlayers": "2",
     "maxPlayers": "2",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["7 cards in 4 suits (colours)"],
     "extraComponents": ["Strength tracker for the elements"]
   },
@@ -628,12 +648,22 @@
     "components": ["13 cards in 4 suits", "4x extra cards"]
   },
   {
+    "name": "Tornei",
+    "bgg": "https://boardgamegeek.com/boardgame/432052/tornei",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-14 in 4 suits"],
+    "extraComponents": ["Suit strength helper", "Prediction slots"]
+  },  
+  {
     "name": "Trick & Snipers",
     "bgg": "https://boardgamegeek.com/boardgame/420766/trick-and-snipers",
     "minPlayers": "3",
     "maxPlayers": "5",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-12 in 4 suits"]
   },  
   {
@@ -642,7 +672,7 @@
     "minPlayers": "3",
     "maxPlayers": "6",
     "year": "2021",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["1-12 with 3 copies of each (suits not used)"],
     "extraComponents": ["Spicy mode mapping"]    
   },
