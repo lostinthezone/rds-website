@@ -67,6 +67,16 @@
     "deck": "AnyDeck",
     "components": ["1-12 in 4 suits"],
     "extraComponents": ["Actions mapping"]
+  },
+  {
+    "name": "Beasty Bar 3: Born to be Wild",
+    "bgg": "https://boardgamegeek.com/boardgame/286657/beasty-bar-3-born-to-be-wild",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2019",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 4 suits"],
+    "extraComponents": ["Actions mapping"]
   },  
   {
     "name": "Best Shot",
