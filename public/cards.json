@@ -469,6 +469,16 @@
     "deck": "AnyDeck",
     "components": ["1-8 in 5 suits"],
     "extraComponents": ["Tracker"]
+  },
+  {
+    "name": "Red7",
+    "bgg": "https://boardgamegeek.com/boardgame/161417/red7",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2014",
+    "deck": "AnyDeck",
+    "components": ["1-7 in 7 suits"],
+    "extraComponents": ["Colour reference"]
   },  
   {
     "name": "Robot Master",
@@ -696,6 +706,16 @@
     "components": ["4 player - 0-7 in 7 suits", "3 player - 0-6 in 6 suits", "0-7 in any suit (Dungeon cards)"],
     "extraComponents": ["3-5 player tokens"]    
   },
+  {
+    "name": "Uchronicle",
+    "bgg": "https://boardgamegeek.com/boardgame/387561/uchronicle",
+    "minPlayers": "2",
+    "maxPlayers": "3",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-6 in 5 suits"],
+    "extraComponents": ["Rules tracker"]    
+  },  
   {
     "name": "Ultimatch",
     "bgg": "https://boardgamegeek.com/boardgame/414176/ultimatch",
