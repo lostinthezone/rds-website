@@ -336,6 +336,16 @@
     "deck": "AnyDeck",
     "components": ["1-7 in 3 suits", "2, 3, 4, 5 in another suit (potions)"],
     "extraComponents": ["Suit strength tracker", "Position tracker"]
+  },
+  {
+    "name": "Joraku",
+    "bgg": "https://boardgamegeek.com/boardgame/180901/joraku",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2015",
+    "deck": "AnyDeck",
+    "components": ["1-7 in 3 suits", "6x 0 cards (daimyo)", "7x zone card"],
+    "extraComponents": ["2x markers + 10x cubes per player", "Round scoring", "Score tracker", ]
   },  
   {
     "name": "Linko",
@@ -489,6 +499,16 @@
     "deck": "AnyDeck",
     "components": ["0-5 with 6 copies"]
   },
+  {
+    "name": "Robotrick",
+    "bgg": "https://boardgamegeek.com/boardgame/374866/robotrick",
+    "minPlayers": "3",
+    "maxPlayers": "3",
+    "year": "2020",
+    "deck": "AnyDeck",
+    "components": ["1-13 in 4 suits (A-D)"],
+    "extraComponents": ["Robo behaviour"]
+  },  
   {
     "name": "Sakana Stack",
     "bgg": "https://boardgamegeek.com/boardgame/413838/sakana-stack",
@@ -764,6 +784,15 @@
     "deck": "AnyDeck",
     "components": ["1-13 in 4 suits and 4x 0 (joker) cards and 4x 14 (wizard) cards"]
   },
+  {
+    "name": "Wizard Junior",
+    "bgg": "https://boardgamegeek.com/boardgame/25866/wizard-junior",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "year": "2006",
+    "deck": "AnyDeck",
+    "components": ["1-8 in 4 suits and 2x 0 (joker) cards and 2x 14 (wizard) cards"]
+  },  
   {
     "name": "Yokai Septet",
     "bgg": "https://boardgamegeek.com/boardgame/251433/yokai-septet",
