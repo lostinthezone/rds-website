@@ -345,7 +345,7 @@
     "year": "2015",
     "deck": "AnyDeck",
     "components": ["1-7 in 3 suits", "6x 0 cards (daimyo)", "7x zone card"],
-    "extraComponents": ["2x markers + 10x cubes per player", "Round scoring", "Score tracker", ]
+    "extraComponents": ["2x markers + 10x cubes per player", "Round scoring", "Score tracker"]
   },  
   {
     "name": "Linko",
