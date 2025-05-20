@@ -234,6 +234,16 @@
     "extraComponents": ["0, 1, 2, 3 and 5 bid cards"]    
   },
   {
+    "name": "FIXER",
+    "bgg": "https://boardgamegeek.com/boardgame/425604/fixer",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-8 in 4 suits"],
+    "extraComponents": ["Card strength helper", "18 tokens (2 sides)"]
+  },  
+  {
     "name": "Four Clans Conflict",
     "bgg": "https://boardgamegeek.com/boardgame/391560/four-clans-conflict",
     "minPlayers": "2",
@@ -299,6 +309,15 @@
     "deck": "AnyDeck",
     "components": ["6 copies in 7 suits"]
   },
+  {
+    "name": "HILO",
+    "bgg": "https://boardgamegeek.com/boardgame/285893/hilo",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2019",
+    "deck": "AnyDeck",
+    "components": ["0-11 in 8 suits, 8x 15 (-1 cards)"]
+  },  
   {
     "name": "Hipparchus",
     "bgg": "https://boardgamegeek.com/boardgame/400858/hipparchus",
@@ -631,6 +650,15 @@
     "components": ["1-5 in 4 suits"],
     "extraComponents": ["Position tracker", "Player aid"]
   },
+  {
+    "name": "Sunset",
+    "bgg": "https://boardgamegeek.com/boardgame/440521/sunset",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["0-9 in 5 suits"]
+  },  
   {
     "name": "Tango",
     "bgg": "https://boardgamegeek.com/boardgame/415472/tango",
