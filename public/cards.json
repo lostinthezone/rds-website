@@ -136,6 +136,17 @@
     "components": ["13 cards in 4 suits (suits not used)"]
   },
   {
+    "name": "Cat Between Us",
+    "bgg": "https://boardgamegeek.com/boardgame/433074/cat-between-us",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["0-6 in 6 suits (lure cards)", "6x 10 (toy cards)"],
+    "extraComponents": ["Win tracker", "Round tracker"],
+    "dateAdded": "2025-05-21"
+  },  
+  {
     "name": "Cat Sabbath (basic)",
     "bgg": "https://boardgamegeek.com/boardgame/423314/cat-sabbath",
     "minPlayers": "2",
