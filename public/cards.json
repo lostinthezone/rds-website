@@ -395,6 +395,17 @@
     "components": ["2-10 in 5 suits (expedition)", "11-13 in 5 suits (wager)"]
   },
   {
+    "name": "Man-Eating House",
+    "bgg": "https://boardgamegeek.com/boardgame/218270/man-eating-house",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2016",
+    "deck": "AnyDeck",
+    "components": ["0-14 green suit, 1-14 yellow suit, 1-15 red suit"],
+    "extraComponents": ["Card mapping", "Trick flow chart"],
+    "dateAdded": "2025-5-21"
+  },  
+  {
     "name": "Maskmen",
     "bgg": "https://boardgamegeek.com/boardgame/159581/maskmen",
     "minPlayers": "2",
