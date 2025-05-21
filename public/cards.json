@@ -403,7 +403,7 @@
     "deck": "AnyDeck",
     "components": ["0-14 green suit, 1-14 yellow suit, 1-15 red suit"],
     "extraComponents": ["Card mapping", "Trick flow chart"],
-    "dateAdded": "2025-5-21"
+    "dateAdded": "2025-05-21"
   },  
   {
     "name": "Maskmen",
@@ -462,6 +462,17 @@
     "deck": "AnyDeck",
     "components": ["1-9 in 6 suits"]
   },
+  {
+    "name": "Odyssey",
+    "bgg": "https://boardgamegeek.com/boardgame/445510/odyssey",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 4 suits"],
+    "extraComponents": ["9 tokens", "Score tracker"],
+    "dateAdded": "2025-05-21"
+  },  
   {
     "name": "Of What's Left",
     "bgg": "https://boardgamegeek.com/boardgame/369509/of-whats-left",
