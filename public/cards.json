@@ -723,6 +723,17 @@
     "year": "2025",
     "deck": "AnyDeck",
     "components": ["0-9 in 5 suits"]
+  },
+  {
+    "name": "Sweets in Wonderland",
+    "bgg": "https://boardgamegeek.com/boardgame/352883/sweets-in-wonderland",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2021",
+    "deck": "AnyDeck",
+    "components": ["-3, -2, -1, 1-8 in 4 suits (number cards)", "10-15 in 5 suits (sweet chips)"],
+    "extraComponents": ["Order boards", "Plate tracker"],
+    "dateAdded": "2025-05-22"
   },  
   {
     "name": "Tango",
