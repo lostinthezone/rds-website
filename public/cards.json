@@ -155,6 +155,17 @@
     "deck": "AnyDeck",
     "components": ["1-12 in 5 suits"],
     "extraComponents": ["5 markers x 4 players"]
+  },
+  {
+    "name": "CATsle Builders",
+    "bgg": "https://boardgamegeek.com/boardgame/405460/catsle-builders",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 5 suits"],
+    "extraComponents": ["Blueprint slots"],
+    "dateAdded": "2025-05-22"
   },  
   {
     "name": "Cauldron 15",
@@ -338,6 +349,16 @@
     "deck": "AnyDeck",
     "components": ["10 copies in 3 colours"]
   },
+  {
+    "name": "Idle Hands",
+    "bgg": "https://boardgamegeek.com/boardgame/322717/idle-hands",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2020",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 4 suits"],
+    "dateAdded": "2025-05-22"
+  },  
   {
     "name": "Jalape-NO!",
     "bgg": "https://boardgamegeek.com/boardgame/206/jalape-no",
@@ -608,6 +629,17 @@
     "components": ["1-9 in 6 suits"]
   },
   {
+    "name": "Seven Prophecies",
+    "bgg": "https://boardgamegeek.com/boardgame/260568/seven-prophecies",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2017",
+    "deck": "AnyDeck",
+    "components": ["1-11 in 4 suits (number cards)", "3x each suit (future cards)"],
+    "extraComponents": ["7 cubes per player"],
+    "dateAdded": "2025-05-22"
+  },  
+  {
     "name": "Short Zoot Suit",
     "bgg": "https://boardgamegeek.com/boardgame/366458/short-zoot-suit",
     "minPlayers": "2",
@@ -729,6 +761,16 @@
     "deck": "AnyDeck",
     "components": ["1-13 in 3 suits (orange, purple, red)", "0-4 and 6-13 in the green suit"]
   },
+  {
+    "name": "The Icarus Club",
+    "bgg": "https://boardgamegeek.com/boardgame/351868/the-icarus-club",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2021",
+    "deck": "AnyDeck",
+    "components": ["1-11 in 5 suits"],
+    "dateAdded": "2025-05-22"
+  },  
   {
     "name": "The Yellow House",
     "bgg": "https://boardgamegeek.com/boardgame/420385/the-yellow-house",
