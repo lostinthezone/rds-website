@@ -315,6 +315,17 @@
     "extraComponents": ["Time period tracking per player", "3x cards per suit for lead suit in time period"]    
   },
   {
+    "name": "Gorus Maximus",
+    "bgg": "https://boardgamegeek.com/boardgame/253756/gorus-maximus",
+    "minPlayers": "1",
+    "maxPlayers": "8",
+    "year": "2018",
+    "deck": "AnyDeck",
+    "components": ["0-15 in 5 suits"],
+    "extraComponents": ["Suit strength tracker"],
+    "dateAdded": "2025-05-23"
+  },  
+  {
     "name": "Gummi Trick",
     "bgg": "https://boardgamegeek.com/boardgame/407581/gummi-trick",
     "minPlayers": "2",
@@ -359,6 +370,17 @@
     "deck": "AnyDeck",
     "components": ["10 copies in 3 colours"]
   },
+  {
+    "name": "Hollywood Sensation",
+    "bgg": "https://boardgamegeek.com/boardgame/324018/hollywood-sensation",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2020",
+    "deck": "AnyDeck",
+    "components": ["1-7 in 4 suits", "4x 0 cards (strength)"],
+    "extraComponents": "Position tracker",
+    "dateAdded": "2025-05-23"
+  },  
   {
     "name": "Idle Hands",
     "bgg": "https://boardgamegeek.com/boardgame/322717/idle-hands",
