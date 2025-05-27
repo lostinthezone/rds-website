@@ -616,6 +616,17 @@
     "extraComponents": ["Tracker"]
   },
   {
+    "name": "Prophecy",
+    "bgg": "https://boardgamegeek.com/boardgame/373435/prophecy",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2022",
+    "deck": "AnyDeck",
+    "components": ["1-14 in 4 suits", "0, 1, 14, 15 in another suit (specialists)", "0 and 15 in 4 suits (trump wheel)"],
+    "extraComponents": ["Bid mapping"],
+    "dateAdded": "2025-05-27"
+  },  
+  {
     "name": "Red7",
     "bgg": "https://boardgamegeek.com/boardgame/161417/red7",
     "minPlayers": "2",
