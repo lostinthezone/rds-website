@@ -266,6 +266,16 @@
     "extraComponents": ["0, 1, 2, 3 and 5 bid cards"]    
   },
   {
+    "name": "Enemy Anemone",
+    "bgg": "https://boardgamegeek.com/boardgame/391985/enemy-anemone",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 6 suits", "12 random cards (Anemone)"],
+    "dateAdded": "2025-05-27"
+  },  
+  {
     "name": "FIXER",
     "bgg": "https://boardgamegeek.com/boardgame/425604/fixer",
     "minPlayers": "2",
@@ -324,7 +334,17 @@
     "components": ["0-15 in 5 suits"],
     "extraComponents": ["Suit strength tracker"],
     "dateAdded": "2025-05-23"
-  },  
+  },
+  {
+    "name": "Grim Reaper Preschool",
+    "bgg": "https://boardgamegeek.com/boardgame/361892/grim-reaper-preschool",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2022",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 4 suits (number cards)"],
+    "dateAdded": "2025-05-27"
+  },
   {
     "name": "Gummi Trick",
     "bgg": "https://boardgamegeek.com/boardgame/407581/gummi-trick",
@@ -576,6 +596,16 @@
     "extraComponents": ["Discard amount mapping"]
   },
   {
+    "name": "Peas",
+    "bgg": "https://boardgamegeek.com/boardgame/388361/peas",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-6 in 4 suits", "3x -2, 1x -3, 4x 1, 1x 2, 1x 3, 2x end cards"],
+    "dateAdded": "2025-05-27"
+  },  
+  {
     "name": "Petir",
     "bgg": "https://boardgamegeek.com/boardgame/431022/petir",
     "minPlayers": "3",
@@ -670,7 +700,7 @@
     "components": ["1-11 in 4 suits (number cards)", "3x each suit (future cards)"],
     "extraComponents": ["7 cubes per player"],
     "dateAdded": "2025-05-22"
-  },  
+  },
   {
     "name": "Short Zoot Suit",
     "bgg": "https://boardgamegeek.com/boardgame/366458/short-zoot-suit",
