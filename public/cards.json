@@ -564,8 +564,7 @@
     "maxPlayers": "4",
     "year": "2023",
     "deck": "AnyDeck",
-    "components": ["2-13 in 4 suits"],
-    "extraComponents": ["2x wild cards per player"]
+    "components": ["2-13 in 4 suits", "4x 0 (pass cards)"]
   },
   {
     "name": "Okey Dokey",
@@ -576,6 +575,17 @@
     "deck": "AnyDeck",
     "components": ["1-8 in 5 suits", "3x 0 cards in any suit (equals)", "10x any card (use back for reset)"]
   },
+  {
+    "name": "Onstage",
+    "bgg": "https://boardgamegeek.com/boardgame/417224/onstage",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 4 suits", "11-13 x4 in matching suits (performers)"],
+    "extraComponents": ["Card flower mapping"],
+    "dateCreated": "2025-05-28"
+  },  
   {
     "name": "Parade",
     "bgg": "https://boardgamegeek.com/boardgame/56692/parade",
