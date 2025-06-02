@@ -391,6 +391,17 @@
     "components": ["10 copies in 3 colours"]
   },
   {
+    "name": "Hits & Outs",
+    "bgg": "https://boardgamegeek.com/boardgame/443146/hits-and-outs",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-4 in a suit (bases)", "1-4 in a suit (hitter)", "1-4 in a suit (pitcher) or 0 x4, 1 x14"],
+    "extraComponents": ["4 cubes", "Score tracker"],
+    "dataAdded": "2025-06-02"
+  },  
+  {
     "name": "Hollywood Sensation",
     "bgg": "https://boardgamegeek.com/boardgame/324018/hollywood-sensation",
     "minPlayers": "2",
@@ -509,6 +520,16 @@
     "components": ["1-12 in 5 colours"],
     "extraComponents": ["Score tracking tokens"]
   },
+  {
+    "name": "Merchant of Goldfish",
+    "bgg": "https://boardgamegeek.com/boardgame/432322/merchant-of-goldfish",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["14 x1, 13 x2, 12 x3, 11 x3, 10 x4, 9 x4, 8 x5, 7 x5, 6 x6, 5 x6, 4 x6, 3 x7, 2 x7, 1 x7"],
+    "dateAdded": "2025-06-02"
+  },  
   {
     "name": "Ninety-Nine",
     "bgg": "https://boardgamegeek.com/boardgame/6688/ninety-nine",
