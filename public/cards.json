@@ -458,8 +458,19 @@
     "maxPlayers": "4",
     "year": "2015",
     "deck": "AnyDeck",
-    "components": ["1-7 in 3 suits", "6x 0 cards (daimyo)", "7x zone card"],
+    "components": ["1-7 in 3 suits", "6x 0 cards (Daimyo)", "7x zone card"],
     "extraComponents": ["2x markers + 10x cubes per player", "Round scoring", "Score tracker"]
+  },
+  {
+    "name": "Las Vegas",
+    "bgg": "https://boardgamegeek.com/boardgame/117959/las-vegas",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2012",
+    "deck": "AnyDeck",
+    "components": ["5x 6, 7, 8, 9 6x 1, 4, 5 8x 2, 3"],
+    "extraComponents": ["8x colour dice per player"],
+    "dateAdded": "2025-06-08"
   },  
   {
     "name": "Linko",
@@ -923,16 +934,6 @@
     "year": "2024",
     "deck": "AnyDeck",
     "components": ["1-12 in 4 suits"]
-  },  
-  {
-    "name": "Trio",
-    "bgg": "https://boardgamegeek.com/boardgame/352515/trio",
-    "minPlayers": "3",
-    "maxPlayers": "6",
-    "year": "2021",
-    "deck": "AnyDeck",
-    "components": ["1-12 with 3 copies of each (suits not used)"],
-    "extraComponents": ["Spicy mode mapping"]    
   },
   {
     "name": "Torchlit",
@@ -944,6 +945,27 @@
     "components": ["4 player - 0-7 in 7 suits", "3 player - 0-6 in 6 suits", "0-7 in any suit (Dungeon cards)"],
     "extraComponents": ["3-5 player tokens"]    
   },
+  {
+    "name": "Trio",
+    "bgg": "https://boardgamegeek.com/boardgame/352515/trio",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "year": "2021",
+    "deck": "AnyDeck",
+    "components": ["1-12 with 3 copies of each (suits not used)"],
+    "extraComponents": ["Spicy mode mapping"]
+  },
+  {
+    "name": "Tsumooo!",
+    "bgg": "https://boardgamegeek.com/boardgame/445519/tsumooo",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-12 in 4 suits", "4x 0 cards (Honor cards)"],
+    "extraComponents": ["Bid tracker"],
+    "dateAdded": "2025-06-08"
+  },  
   {
     "name": "Uchronicle",
     "bgg": "https://boardgamegeek.com/boardgame/387561/uchronicle",
