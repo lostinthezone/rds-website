@@ -411,6 +411,17 @@
     "components": ["1-7 in 4 suits", "4x 0 cards (strength)"],
     "extraComponents": "Position tracker",
     "dateAdded": "2025-05-23"
+  },
+  {
+    "name": "Hund",
+    "bgg": "https://boardgamegeek.com/boardgame/143882/hund",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2013",
+    "deck": "AnyDeck",
+    "components": ["1-15 in 5 suits", "1-15 in a suit (designation cards)", "5x 0 cards (dog tiles)"],
+    "extraComponents": "Score/designation tracker",
+    "dateAdded": "2025-06-25"
   },  
   {
     "name": "Idle Hands",
