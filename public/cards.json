@@ -409,7 +409,7 @@
     "year": "2020",
     "deck": "AnyDeck",
     "components": ["1-7 in 4 suits", "4x 0 cards (strength)"],
-    "extraComponents": "Position tracker",
+    "extraComponents": ["Position tracker"],
     "dateAdded": "2025-05-23"
   },
   {
@@ -420,7 +420,7 @@
     "year": "2013",
     "deck": "AnyDeck",
     "components": ["1-15 in 5 suits", "1-15 in a suit (designation cards)", "5x 0 cards (dog tiles)"],
-    "extraComponents": "Score/designation tracker",
+    "extraComponents": ["Score/designation tracker"],
     "dateAdded": "2025-06-25"
   },  
   {
