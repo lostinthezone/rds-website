@@ -185,7 +185,17 @@
     "year": "2021",
     "deck": "AnyDeck",
     "components": ["0-7 in 5 suits", "1 card in each suit for trump selection"]
-  },  
+  },
+  {
+    "name": "Clumsy Room Maids",
+    "bgg": "https://boardgamegeek.com/boardgame/445503/clumsy-room-maids",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["0-9 in 3 suits"],
+    "dateAdded": "2025-07-29"
+  },
   {
     "name": "Corgi Pileup",
     "bgg": "https://boardgamegeek.com/boardgame/436935/corgi-pileup",
