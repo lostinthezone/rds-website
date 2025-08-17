@@ -561,6 +561,16 @@
     "deck": "AnyDeck",
     "components": ["14 x1, 13 x2, 12 x3, 11 x3, 10 x4, 9 x4, 8 x5, 7 x5, 6 x6, 5 x6, 4 x6, 3 x7, 2 x7, 1 x7"],
     "dateAdded": "2025-06-02"
+  },
+  {
+    "name": "My Own Sunny Day",
+    "bgg": "https://boardgamegeek.com/boardgame/446142/si-dakenoqing-tian-watashi-dake-no-seiten",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-15, 1-14, 1-12, 1-11, 4x 0 (umbrella cards)"],
+    "dateAdded": "2025-08-17"
   },  
   {
     "name": "Ninety-Nine",
