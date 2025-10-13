@@ -21,8 +21,7 @@ interface CardGame {
 import jsonData from 'public/cards.json';
 const cardGames = jsonData as CardGame[];
 
-const list = useState<CardGame[]>(() => cardGames);
-const searchValue = useState<string>(() => "");
+const searchValue = ref<string>("");
 
 const filteredList = computed(() => {
   return cardGames.filter(game => game.name.toLowerCase().includes(searchValue.value.toLowerCase()));
@@ -57,7 +56,7 @@ const filteredList = computed(() => {
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
 
-      <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} matches found</p>
+      <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} matche(s) found</p>
       
       <div class="flex-col gap-4">
       <UCard v-for="game in filteredList" :key="game.name" class="mt-4 w-2xl">
