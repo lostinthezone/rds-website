@@ -294,7 +294,18 @@
     "deck": "AnyDeck",
     "components": ["1-10 in 6 suits", "12 random cards (Anemone)"],
     "dateAdded": "2025-05-27"
-  },  
+  },
+  {
+    "name": "Faust vs Mephisto",
+    "bgg": "https://boardgamegeek.com/boardgame/446269/faust-vs-mephisto",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-4 in red", "1-6 in yellow", "1-5 in blue", "1-7 in green", "1 red, 1 yellow, 1 blue, 1 green (suit tokens)", "4x any card (coins)"],
+    "extraComponents": ["Suit strength tracker"],
+    "dateAdded": "2025-10-15"
+  },
   {
     "name": "FIXER",
     "bgg": "https://boardgamegeek.com/boardgame/425604/fixer",
