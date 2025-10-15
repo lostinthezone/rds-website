@@ -796,6 +796,17 @@
     "dateAdded": "2025-05-22"
   },
   {
+    "name": "Shadow Cards",
+    "bgg": "https://boardgamegeek.com/boardgame/451923/shadow-cards",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["0-14 in 4 suits"],
+    "extraComponents": ["Score tracker"],
+    "dateAdded": "2025-10-15"    
+  },  
+  {
     "name": "Short Zoot Suit",
     "bgg": "https://boardgamegeek.com/boardgame/366458/short-zoot-suit",
     "minPlayers": "2",
