@@ -493,6 +493,16 @@
     "extraComponents": ["2x markers + 10x cubes per player", "Round scoring", "Score tracker"]
   },
   {
+    "name": "Kabuki Tricks",
+    "bgg": "https://boardgamegeek.com/boardgame/413087/kabuki-tricks",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 4 suits", "4x -1 cards (actor)", "4x 0 cards (joker)", "1-3 x4 cards (bet)", "1x card (high low)"],
+    "dateAdded": "2025-10-15"
+  },
+  {
     "name": "Las Vegas",
     "bgg": "https://boardgamegeek.com/boardgame/117959/las-vegas",
     "minPlayers": "2",
