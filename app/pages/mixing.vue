@@ -113,7 +113,7 @@
     </p>
 
     <h3 class="text-2xl mt-3 mb-2">Phrases</h3>
-    Tracks are made up of phrases. Tunes should be mixed so their phrases are a lined.
+    Tracks are made up of phrases. Tunes should be mixed so their phrases are aligned.
 
     <h3 class="text-2xl mt-3 mb-2">Mixing at 0db</h3>
     <p>

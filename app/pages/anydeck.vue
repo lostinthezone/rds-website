@@ -24,7 +24,9 @@ const cardGames = jsonData as CardGame[];
 const searchValue = ref<string>("");
 
 const filteredList = computed(() => {
-  return cardGames.filter(game => game.name.toLowerCase().includes(searchValue.value.toLowerCase()));
+  return cardGames
+      .filter(game => game.name.toLowerCase().includes(searchValue.value.toLowerCase()))
+      .sort((a, b) => a.name.localeCompare(b.name));
 });
 
 </script>
