@@ -1,11 +1,33 @@
 [
   {
+    "name": "UGO!",
+    "bgg": "https://boardgamegeek.com/boardgame/139326/ugo",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2013",
+    "deck": "AnyDeck",
+    "components": ["0-8 in 5 suits"],
+    "extraComponents": ["Kingdom cards", "36 farm tokens"],
+    "dateAdded": "2025-10-31"
+  },
+  {
+    "name": "Pinatas",
+    "bgg": "https://boardgamegeek.com/boardgame/446249/pinatas",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["0-15 in 5 suits"],
+    "extraComponents": ["Points tracker"],
+    "dateAdded": "2025-10-31"
+  },
+  {
     "name": "1 A.M Jailbreak",
     "bgg": "https://boardgamegeek.com/boardgame/428224/1-am-jailbreak",
     "minPlayers": "2",
     "maxPlayers": "5",
     "year": "2024",
-    "deck": "Standard",
+    "deck": "AnyDeck",
     "components": ["2 player - 1-8 in 5 suits, 2x 0 (wilds)", "3 player - 1-8 in 7 suits, 3x 0 (wilds)"],
     "dateAdded": "2025-05-22"
   },
