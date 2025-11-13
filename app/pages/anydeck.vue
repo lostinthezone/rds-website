@@ -18,7 +18,7 @@ interface CardGame {
   deck: string;
 }
 
-import jsonData from 'public/cards.json';
+import jsonData from "~/assets/data/cards.json";
 const cardGames = jsonData as CardGame[];
 
 const searchValue = ref<string>("");
