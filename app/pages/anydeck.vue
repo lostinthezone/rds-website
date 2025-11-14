@@ -35,7 +35,7 @@ const filteredList = computed(() => {
   <div class="flex flex-col pt-8 pb-20">
 
     <div class="flex content-center justify-center">
-      <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg"/>
+      <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg h-auto w-full"/>
     </div>
 
     <div class="flex flex-col">
@@ -52,8 +52,8 @@ const filteredList = computed(() => {
 
       <p>The following are some of the games playable using AnyDeck.</p>
 
-      <div class="mt-4">
-        <UInput v-model="searchValue" icon="i-lucide-search" size="xl" class="w-xl"  variant="outline" placeholder="Search by name"/>
+      <div class="mt-4 max-w-2xl">
+        <UInput v-model="searchValue" icon="i-lucide-search" size="xl" variant="outline" placeholder="Search by name"/>
       </div>
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
@@ -61,7 +61,7 @@ const filteredList = computed(() => {
       <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} match(es) found</p>
       
       <div class="flex-col gap-4">
-      <UCard v-for="game in filteredList" :key="game.name" class="mt-4 w-2xl">
+      <UCard v-for="game in filteredList" :key="game.name" class="mt-4 max-w-2xl">
         
         <template #header>
           <ULink target="_blank" :to="game.bgg" external>
