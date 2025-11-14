@@ -9,6 +9,11 @@ const items = computed<NavigationMenuItem[]>(() => [
     to: '/anydeck'
   },
   {
+    label: 'Buy',
+    to: 'https://www.thegamecrafter.com/games/anydeck',
+    target: '_blank'
+  },
+  {
     label: 'Contact',
     to: '/contact'
   }])
