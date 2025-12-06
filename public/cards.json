@@ -1,5 +1,15 @@
 [
   {
+    "name": "Dodicitre",
+    "bgg": "https://boardgamegeek.com/boardgame/458863/dodicitre",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["3-12 in 5 suits", "1 and 12 in any suit (direction)"],
+    "dateAdded": "2025-12-06"
+  },
+  {
     "name": "UGO!",
     "bgg": "https://boardgamegeek.com/boardgame/139326/ugo",
     "minPlayers": "2",
