@@ -33,13 +33,11 @@ const filteredList = computed(() => {
 
 <template>
   <div class="flex flex-col pt-8 pb-20">
-
     <div class="flex content-center justify-center">
       <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg h-auto w-full"/>
     </div>
 
     <div class="flex flex-col">
-
       <p class="mt-5">AnyDeck is a generic deck of numbered cards for playing a variety of different card games. The
         deck
         consists of 8 coloured suits with cards numbered 0 to 15 with 4 of those suits including the numbers -3, -2 and
@@ -105,7 +103,6 @@ const filteredList = computed(() => {
       </UCard>
       </div>
     </div>
-
   </div>
 </template>
 
