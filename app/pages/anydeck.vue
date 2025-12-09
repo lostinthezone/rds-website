@@ -1,9 +1,25 @@
 <script setup lang="ts">
 
+const title = 'Really Digital Stuff - AnyDeck'
+const description = 'AnyDeck is a generic deck of numbered cards for playing a variety of different card games.'
+const image = '/logo-combined.png'
+
+useSeoMeta({
+  title,
+  ogTitle: title,
+  description,
+  ogDescription: description,
+  ogImage: image,
+  twitterCard: 'summary_large_image',
+  twitterTitle: title,
+  twitterDescription: description,
+  twitterImage: image
+})
+
 useHead({
-  title: 'Really Digital Stuff - AnyDeck',
+  title: title,
   meta: [
-    { name: 'description', content: 'AnyDeck is a generic deck of numbered cards for playing a variety of different card games.' }
+    { name: 'description', content: description }
   ]
 })
 
