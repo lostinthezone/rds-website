@@ -1,5 +1,29 @@
 
 <script setup lang="ts">
+
+const title = 'Really Digital Stuff - Shirts'
+const description = 'Retro influenced shirt designs.'
+const image = '/spin-small.png'
+
+useSeoMeta({
+  title,
+  ogTitle: title,
+  description,
+  ogDescription: description,
+  ogImage: image,
+  twitterCard: 'summary_large_image',
+  twitterTitle: title,
+  twitterDescription: description,
+  twitterImage: image
+})
+
+useHead({
+  title: title,
+  meta: [
+    { name: 'description', content: description }
+  ]
+})
+
 </script>
 
 <template>
