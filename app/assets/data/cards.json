@@ -1,5 +1,36 @@
 [
   {
+    "name": "The Magic Shop",
+    "bgg": "https://boardgamegeek.com/boardgame/456017/the-magic-shop",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 5 suits", "0 in 5 suits (trump)"],
+    "extraComponents": ["15 tokens (thirst)", "trump marker", "2 sides token (power)", "magic effects mapping"],
+    "dateAdded": "2025-12-11"
+  },
+  {
+    "name": "The Third Man",
+    "bgg": "https://boardgamegeek.com/boardgame/457023/the-third-man",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 4 suits", "8 cards (escape)"],
+    "dateAdded": "2025-12-11"
+  },
+  {
+    "name": "Ouroboros Trick",
+    "bgg": "https://boardgamegeek.com/boardgame/458859/ouroboros-trick",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-15 in 4 suits"],
+    "dateAdded": "2025-12-11"
+  },
+  {
     "name": "Dodicitre",
     "bgg": "https://boardgamegeek.com/boardgame/458863/dodicitre",
     "minPlayers": "3",
