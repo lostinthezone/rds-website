@@ -48,7 +48,7 @@ const filteredList = computed(() => {
 </script>
 
 <template>
-  <div class="flex flex-col pt-8 pb-20">
+  <div class="flex flex-col pt-5 pb-20">
     <div class="flex content-center justify-center">
       <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg h-auto w-full"/>
     </div>
