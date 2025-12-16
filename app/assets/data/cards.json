@@ -1,5 +1,15 @@
 [
   {
+    "name": "Take Over That Job",
+    "bgg": "https://boardgamegeek.com/boardgame/458857/dai-waresonoziyobu-kaware-sono-job",
+    "minPlayers": "4",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-14 in 4 suits", "0x4 in the same 4 suits (bonus)", "2-5 in 4 other suits (trick amounts)"],
+    "dateAdded": "2025-12-16"
+  },  
+  {
     "name": "The Magic Shop",
     "bgg": "https://boardgamegeek.com/boardgame/456017/the-magic-shop",
     "minPlayers": "3",

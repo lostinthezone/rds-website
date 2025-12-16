@@ -72,7 +72,7 @@ const filteredList = computed(() => {
       
       <p class="pt-8" v-if="filteredList.length == 0">No matches found</p>
 
-      <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} match(es) found</p>
+      <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} matches found</p>
       
       <div class="flex-col gap-4">
       <UCard v-for="game in filteredList" :key="game.name" class="mt-4 max-w-2xl">
