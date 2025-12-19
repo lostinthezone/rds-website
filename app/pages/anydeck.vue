@@ -23,6 +23,13 @@ useHead({
   ]
 })
 
+onMounted(() => {
+  useTrackEvent("anydeck_event", {
+    when: new Date().toUTCString(),
+    page: 'anydeck'
+  });
+})
+
 interface CardGame {
   name: string;
   bgg: string;

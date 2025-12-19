@@ -24,6 +24,13 @@ useHead({
   ]
 })
 
+onMounted(() => {
+  useTrackEvent("shirts_event", {
+    when: new Date().toUTCString(),
+    page: 'shirts'
+  });
+})
+
 </script>
 
 <template>

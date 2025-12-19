@@ -1,15 +1,33 @@
 <script setup lang="ts">
-useTrackEvent("contact_event", {
-  when: new Date().toUTCString(),
-  page: 'contact'
-});
+
+const title = 'Really Digital Stuff - Contact';
+const description = 'Contact details for Really Digital Stuff';
+
+useSeoMeta({
+  title: title,
+  description: description,
+  ogTitle: title,
+  ogDescription: description,
+  twitterTitle: title,
+  twitterDescription: description
+})
 
 useHead({
-  title: 'Really Digital Stuff - Contact',
+  title: title,
   meta: [
-    {name: 'description', content: 'Contact Really Digital Stuff'}
+    {
+      name: 'description', content: description
+    }
   ]
 })
+
+onMounted(() => {
+  useTrackEvent("contact_event", {
+    when: new Date().toUTCString(),
+    page: 'contact'
+  });  
+})
+
 </script>
 
 <template>
