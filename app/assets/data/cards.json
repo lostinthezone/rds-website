@@ -625,7 +625,7 @@
     "maxPlayers": "5",
     "year": "2012",
     "deck": "AnyDeck",
-    "components": ["5x 6, 7, 8, 9 6x 1, 4, 5 8x 2, 3"],
+    "components": ["5x 6, 5x 7, 5x 8, 5x 9 6x 1, 6x 4, 6x 5 8x 2, 8x 3"],
     "extraComponents": ["8x colour dice per player"],
     "dateAdded": "2025-06-08"
   },  
