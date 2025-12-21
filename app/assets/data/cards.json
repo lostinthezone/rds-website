@@ -247,7 +247,7 @@
     "maxPlayers": "4",
     "year": "2019",
     "deck": "AnyDeck",
-    "components": ["13 cards in 4 suits (suits not used)"]
+    "components": ["1-12 x4 in any suit", "0 x2 in any suit", "13 x2 in any suit"]
   },
   {
     "name": "Cat Between Us",
