@@ -39,7 +39,7 @@ onMounted(() => {
       <img src="/spin-small.png" alt="Spin shirt" class="max-w-lg h-auto w-full"/>
     </div>
     
-    <span class="text-2xl pt-8">Shirts</span>
-    <span>Available @ <a target="_blank" href="https://www.redbubble.com/people/reallydigital/shop?asc=u">Redbubble</a>.</span>
+    <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Shirts</h3>
+    <p>Available @ <a target="_blank" href="https://www.redbubble.com/people/reallydigital/shop?asc=u">Redbubble</a>.</p>
   </div>
 </template>
