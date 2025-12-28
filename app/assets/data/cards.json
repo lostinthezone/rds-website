@@ -1,5 +1,16 @@
 [
   {
+    "name": "Love Letter",
+    "bgg": "https://boardgamegeek.com/boardgame/129622/love-letter",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2012",
+    "deck": "AnyDeck",
+    "components": ["1 x5", "2 x2", "3 x2", "4 x2", "5 x2", "6 x1", "7 x1", "8 x1"],
+    "extraComponents": ["Ability mappings"],
+    "dateAdded": "2025-12-29"
+  },  
+  {
     "name": "Take Over That Job",
     "bgg": "https://boardgamegeek.com/boardgame/458857/dai-waresonoziyobu-kaware-sono-job",
     "minPlayers": "4",
