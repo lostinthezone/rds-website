@@ -1,5 +1,16 @@
 [
   {
+    "name": "Worst In Show",
+    "bgg": "https://boardgamegeek.com/boardgame/361483/worst-in-show",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2022",
+    "deck": "AnyDeck",
+    "components": ["1-15 in 4 suits", "0 x5 (obedience cards)"],
+    "extraComponents": ["5 dice (bids)"],
+    "dateAdded": "2026-01-04"
+  },  
+  {
     "name": "Stonks",
     "bgg": "https://boardgamegeek.com/boardgame/364277/stonks",
     "minPlayers": "2",
