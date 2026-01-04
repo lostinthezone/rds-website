@@ -1,5 +1,26 @@
 [
   {
+    "name": "Expressions",
+    "bgg": "https://boardgamegeek.com/boardgame/402337/expressions",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2024",
+    "deck": "AnyDeck",
+    "components": ["0-9 in red, blue, yellow, green and purple suits"],
+    "dateAdded": "2026-01-04"
+  },
+  {
+    "name": "For the Emperor",
+    "bgg": "https://boardgamegeek.com/boardgame/435356/for-the-emperor",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 2 suits", "1-7 in gray (zones)", "1-4 yellow, 1-3 in orange (banners)"],
+    "extraComponents": ["4 cubes in one colour", "4 cubes in another colour"],
+    "dateAdded": "2026-01-04"
+  },  
+  {
     "name": "Worst In Show",
     "bgg": "https://boardgamegeek.com/boardgame/361483/worst-in-show",
     "minPlayers": "3",
