@@ -1,5 +1,16 @@
 [
   {
+    "name": "Stonks",
+    "bgg": "https://boardgamegeek.com/boardgame/364277/stonks",
+    "minPlayers": "2",
+    "maxPlayers": "5",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-13 in green, yellow, orange, red and aqua (market)", "1-5 in gray (speculation)"],
+    "extraComponents": ["Market movement mapping", "Stock amount mapping"],
+    "dateAdded": "2026-01-04"
+  },
+  {
     "name": "Love Letter",
     "bgg": "https://boardgamegeek.com/boardgame/129622/love-letter",
     "minPlayers": "2",
