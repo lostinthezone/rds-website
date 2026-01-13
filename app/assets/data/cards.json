@@ -1,5 +1,16 @@
 [
   {
+    "name": "Bested Another Time",
+    "bgg": "https://boardgamegeek.com/boardgame/453093/bested-another-time",
+    "minPlayers": "1",
+    "maxPlayers": "6",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["4 player - 1-15 in 4 suits", "3 player - 1-15 in 3 suits", "2 player - 1-15 in 3 suits", "-3, -2, -1 pass cards"],
+    "dateAdded": "2026-01-14",
+    "type": "climbing"
+  },
+  {
     "name": "Orbita",
     "bgg": "https://boardgamegeek.com/boardgame/452324/orbita",
     "minPlayers": "2",
