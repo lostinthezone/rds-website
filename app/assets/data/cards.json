@@ -1,5 +1,16 @@
 [
   {
+    "name": "Orbita",
+    "bgg": "https://boardgamegeek.com/boardgame/452324/orbita",
+    "minPlayers": "2",
+    "maxPlayers": "2",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-7 in 4 suits (planet)"],
+    "extraComponents": ["4 markers (planet) - 0 x4", "game board mapping - 1-7 in 2 suits"],
+    "dateAdded": "2026-01-13"
+  },
+  {
     "name": "Expressions",
     "bgg": "https://boardgamegeek.com/boardgame/402337/expressions",
     "minPlayers": "2",
