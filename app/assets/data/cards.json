@@ -1,5 +1,17 @@
 [
   {
+    "name": "Too Sloth to Win",
+    "bgg": "https://boardgamegeek.com/boardgame/445918/match-fixers-high",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["4 player - 1-8 in 5 suits", "3 player - 1-6 in 5 suits", "0 x5 (wilds)", "9 card backs (track)"],
+    "extraComponents": ["Score tracker", "Player tokens"],
+    "dateAdded": "2026-02-10",
+    "type": "climbing/shedding"
+  },
+  {
     "name": "Bested Another Time",
     "bgg": "https://boardgamegeek.com/boardgame/453093/bested-another-time",
     "minPlayers": "1",
@@ -8,7 +20,7 @@
     "deck": "AnyDeck",
     "components": ["4 player - 1-15 in 4 suits", "3 player - 1-15 in 3 suits", "2 player - 1-15 in 3 suits", "-3, -2, -1 pass cards"],
     "dateAdded": "2026-01-14",
-    "type": "climbing"
+    "type": "climbing/shedding"
   },
   {
     "name": "Orbita",
