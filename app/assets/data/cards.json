@@ -1,5 +1,16 @@
 [
   {
+    "name": "Antiques Ghost Show",
+    "bgg": "https://boardgamegeek.com/boardgame/449894/antiques-ghost-show",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-9 in 7 suits (item)", "0 x7 in 7 suits (collector)"],
+    "extraComponents": ["Player token"],
+    "dateAdded": "2026-02-19"
+  },
+  {
     "name": "Too Sloth to Win",
     "bgg": "https://boardgamegeek.com/boardgame/445918/match-fixers-high",
     "minPlayers": "3",
