@@ -1,5 +1,27 @@
 [
   {
+    "name": "Somnia",
+    "bgg": "https://boardgamegeek.com/boardgame/294219/somnia",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2019",
+    "deck": "AnyDeck",
+    "components": ["2-10 in 4 suits"],
+    "extraComponents": ["Point mapping", "Life trackers"],
+    "dateAdded": "2026-02-24"
+  },
+  {
+    "name": "RoboKraft",
+    "bgg": "https://boardgamegeek.com/boardgame/451357/robokraft",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["0-12 in 4 suits (12 being additional 0)"],
+    "extraComponents": ["20 tokens (5 in each suit color - 4 power cell cubes, 1 value disc)", "Score mapping"],
+    "dateAdded": "2026-02-24"
+  },
+  {
     "name": "Antiques Ghost Show",
     "bgg": "https://boardgamegeek.com/boardgame/449894/antiques-ghost-show",
     "minPlayers": "2",
