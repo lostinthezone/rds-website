@@ -1,5 +1,26 @@
 [
   {
+    "name": "Tricky Landing",
+    "bgg": "https://boardgamegeek.com/boardgame/456152/tricky-landing",
+    "minPlayers": "3",
+    "maxPlayers": "6",
+    "year": "2025",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 5 suits"],
+    "dateAdded": "2026-03-22"
+  },
+  {
+    "name": "Roller Disco",
+    "bgg": "https://boardgamegeek.com/boardgame/448425/roller-disco",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 6 suits"],
+    "extraComponents": ["Position marker"],
+    "dateAdded": "2026-03-22"
+  },
+  {
     "name": "Somnia",
     "bgg": "https://boardgamegeek.com/boardgame/294219/somnia",
     "minPlayers": "2",
