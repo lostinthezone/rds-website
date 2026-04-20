@@ -27,7 +27,7 @@
     "maxPlayers": "4",
     "year": "2026",
     "deck": "AnyDeck",
-    "components": ["1-10 in 6 suits"],
+    "components": ["1-10 in 5 suits", "1-10 in 1 suit (jam)"],
     "extraComponents": ["Position marker"],
     "dateAdded": "2026-03-22"
   },
