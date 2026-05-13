@@ -1,15 +1,5 @@
 [
   {
-    "name": "The Third Man",
-    "bgg": "https://boardgamegeek.com/boardgame/457023/the-third-man",
-    "minPlayers": "3",
-    "maxPlayers": "4",
-    "year": "2025",
-    "deck": "AnyDeck",
-    "components": ["1-9 in 4 suits", "1-8 in a suit (escape cards)"],
-    "dateAdded": "2026-05-10"
-  },
-  {
     "name": "The Four Deuces",
     "bgg": "https://boardgamegeek.com/boardgame/468750/the-four-deuces",
     "minPlayers": "2",
