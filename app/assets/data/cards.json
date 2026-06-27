@@ -1,5 +1,26 @@
 [
   {
+    "name": "ZooStock",
+    "bgg": "https://boardgamegeek.com/boardgame/407811/zoostock",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2023",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 6 suits"],
+    "dateAdded": "2026-06-27"
+  },
+  {
+    "name": "Masquerade Trick Party",
+    "bgg": "https://boardgamegeek.com/boardgame/468437/masquerade-trick-party",
+    "minPlayers": "3",
+    "maxPlayers": "5",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["1-10 in 5 suits", "1-5 role cards"],
+    "extraComponents": ["Role mapping"],
+    "dateAdded": "2026-06-27"
+  },
+  {
     "name": "The Four Deuces",
     "bgg": "https://boardgamegeek.com/boardgame/468750/the-four-deuces",
     "minPlayers": "2",
