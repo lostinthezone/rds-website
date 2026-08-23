@@ -1,5 +1,15 @@
 [
   {
+    "name": "Cursed Tricks",
+    "bgg": "https://boardgamegeek.com/boardgame/295833/zhou-shu-toritsuku-cursed-tricks",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2019",
+    "deck": "AnyDeck",
+    "components": ["1-14 in 4 suits"],
+    "dateAdded": "2026-08-24"
+  },
+  {
     "name": "ZooStock",
     "bgg": "https://boardgamegeek.com/boardgame/407811/zoostock",
     "minPlayers": "3",
@@ -8,7 +18,7 @@
     "deck": "AnyDeck",
     "components": ["1-10 in 6 suits"],
     "dateAdded": "2026-06-27"
-  },
+  },  
   {
     "name": "Masquerade Trick Party",
     "bgg": "https://boardgamegeek.com/boardgame/468437/masquerade-trick-party",
