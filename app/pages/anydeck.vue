@@ -39,9 +39,27 @@ const cardGames = jsonData as CardGame[];
 
 const searchValue = ref<string>("");
 
+const debouncedSearch = ref<string>("");
+let searchDebounceTimer: ReturnType<typeof setTimeout> | null = null;
+
+watch(searchValue, (val) => {
+  if (searchDebounceTimer) clearTimeout(searchDebounceTimer);
+  searchDebounceTimer = setTimeout(() => {
+    debouncedSearch.value = val;
+  }, 300);
+});
+
+onBeforeUnmount(() => {
+  if (searchDebounceTimer) {
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = null;
+  }
+});
+
 const filteredList = computed(() => {
+  const q = debouncedSearch.value.trim().toLowerCase();
   return cardGames
-      .filter(game => game.name.toLowerCase().includes(searchValue.value.toLowerCase()))
+      .filter(game => game.name.toLowerCase().includes(q))
       .sort((a, b) => a.name.localeCompare(b.name));
 });
 
@@ -121,4 +139,3 @@ const filteredList = computed(() => {
   </div>
 </template>
 
-<style scoped></style>
