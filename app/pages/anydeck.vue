@@ -59,7 +59,7 @@ const filteredList = computed(() => {
         consists of 8 coloured suits with cards numbered 0 to 15 with 4 of those suits including the numbers -3, -2 and
         -1 and another 0 card for a total of a 144 cards.</p>
       <br/>
-      <p>Available using print on demand @ <a target="_blank" href="https://www.thegamecrafter.com/games/anydeck">The Game Crafter</a>.</p>
+      <p>Available using print on demand @ <a target="_blank" rel="noopener noreferrer" href="https://www.thegamecrafter.com/games/anydeck">The Game Crafter</a>.</p>
       
       <h3 class="text-3xl font-bold dark:text-white mb-5 mt-5">Games playable using AnyDeck</h3>
 
@@ -77,7 +77,7 @@ const filteredList = computed(() => {
       <UCard v-for="(game, idx) in filteredList" :key="game.name + '-' + game.year + '-' + idx" class="mt-4 max-w-2xl">
         
         <template #header>
-          <ULink target="_blank" :to="game.bgg" external>
+          <ULink target="_blank" rel="noopener noreferrer" :to="game.bgg" external>
             <span class="text-xl">{{ game.name }} ({{ game.year }})</span>
             <UIcon name="ic:baseline-launch" size="16" class="ml-2"></UIcon>
           </ULink>
