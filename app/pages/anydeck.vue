@@ -16,13 +16,6 @@ useSeoMeta({
   twitterImage: image
 })
 
-useHead({
-  title: title,
-  meta: [
-    { name: 'description', content: description }
-  ]
-})
-
 onMounted(() => {
   useTrackEvent("anydeck_event", {
     when: new Date().toUTCString(),
