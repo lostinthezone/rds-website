@@ -57,7 +57,7 @@ const filteredList = computed(() => {
 <template>
   <div class="flex flex-col pt-5 pb-20">
     <div class="flex content-center justify-center">
-      <img src="/logo-combined.png" alt="Anydeck logo" class="max-w-lg h-auto w-full"/>
+    <img :src="image" alt="Anydeck logo" class="max-w-lg h-auto w-full"/>
     </div>
 
     <div class="flex flex-col">
@@ -80,8 +80,8 @@ const filteredList = computed(() => {
 
       <p class="pt-8" v-if="filteredList.length > 0">{{ filteredList.length }} matches found</p>
       
-      <div class="flex-col gap-4">
-      <UCard v-for="game in filteredList" :key="game.name" class="mt-4 max-w-2xl">
+      <div class="flex flex-col gap-4">
+      <UCard v-for="(game, idx) in filteredList" :key="game.name + '-' + game.year + '-' + idx" class="mt-4 max-w-2xl">
         
         <template #header>
           <ULink target="_blank" :to="game.bgg" external>
@@ -101,8 +101,8 @@ const filteredList = computed(() => {
               <tr>
                 <td class="align-top">Components</td>
                 <td>
-                  <ul class="flex-col">
-                    <li v-for="(item) in game.components">
+                  <ul class="flex flex-col">
+                    <li v-for="(item, idx2) in game.components" :key="item + '-' + idx2">
                       {{ item }}
                     </li>
                   </ul>
@@ -111,8 +111,8 @@ const filteredList = computed(() => {
               <tr>
                 <td class="align-top">Extra Components</td>
                 <td class="align-top">
-                  <ul class="flex-col">
-                    <li v-for="(item) in game.extraComponents">
+                  <ul class="flex flex-col">
+                    <li v-for="(item, idx3) in game.extraComponents" :key="item + '-' + idx3">
                       {{ item }}
                     </li>
                   </ul>
