@@ -9,11 +9,7 @@ useSeoMeta({
   ogTitle: title,
   description,
   ogDescription: description,
-  ogImage: image,
-  twitterCard: 'summary_large_image',
-  twitterTitle: title,
-  twitterDescription: description,
-  twitterImage: image
+  ogImage: image
 })
 
 onMounted(() => {
@@ -43,7 +39,9 @@ const debouncedSearch = ref<string>("");
 let searchDebounceTimer: ReturnType<typeof setTimeout> | null = null;
 
 watch(searchValue, (val) => {
-  if (searchDebounceTimer) clearTimeout(searchDebounceTimer);
+  if (searchDebounceTimer) {
+    clearTimeout(searchDebounceTimer);
+  }
   searchDebounceTimer = setTimeout(() => {
     debouncedSearch.value = val;
   }, 300);
