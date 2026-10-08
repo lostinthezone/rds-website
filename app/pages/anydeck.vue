@@ -117,7 +117,7 @@ const filteredList = computed(() => {
                   </ul>
                 </td>
               </tr>
-              <tr>
+              <tr v-if="Array.isArray(game.extraComponents) && game.extraComponents.length > 0">
                 <td class="align-top">Extra Components</td>
                 <td class="align-top">
                   <ul class="flex flex-col">
