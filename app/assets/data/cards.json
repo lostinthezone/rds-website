@@ -1,5 +1,15 @@
 [
   {
+    "name": "Can't Win",
+    "bgg": "https://boardgamegeek.com/boardgame/467997/cant-win",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["1-12, 4 in 4 suits", "1 to 4 in another suit (Can't Win tiles)"],
+    "dateAdded": "2026-10-15"
+  },
+  {
     "name": "Oshaka Trick",
     "bgg": "https://boardgamegeek.com/boardgame/468836/oshaka-trick",
     "minPlayers": "3",
