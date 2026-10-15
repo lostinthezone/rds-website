@@ -1,5 +1,25 @@
 [
   {
+    "name": "Oshaka Trick",
+    "bgg": "https://boardgamegeek.com/boardgame/468836/oshaka-trick",
+    "minPlayers": "3",
+    "maxPlayers": "4",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["1-10, 4 in 4 suits"],
+    "dateAdded": "2026-10-15"
+  },
+  {
+    "name": "Trifle",
+    "bgg": "https://boardgamegeek.com/boardgame/433924/trifle",
+    "minPlayers": "2",
+    "maxPlayers": "4",
+    "year": "2026",
+    "deck": "AnyDeck",
+    "components": ["0-5, 14 in 4 suits"],
+    "dateAdded": "2026-10-15"
+  },  
+  {
     "name": "Cursed Tricks",
     "bgg": "https://boardgamegeek.com/boardgame/295833/zhou-shu-toritsuku-cursed-tricks",
     "minPlayers": "3",
